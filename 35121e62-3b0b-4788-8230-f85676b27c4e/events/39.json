@@ -1,6 +1,0 @@
-{
-    "id": 39,
-    "events": "[{\"name\":\"stdin\",\"data\":\"G1tD\",\"target\":\"XTerm:1\",\"delta_time\":118.11708499999999},{\"name\":\"stdin\",\"data\":\"DRtbMzBtG1s0M21kcnd4ci14ci14ICAgMTUgamVlZm8gIHN0YWZmICAgNTEwQiBEZWMgMjMgIDIwMTcgamVlZm9fbW9kdWxlcyAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgG1sxNTsxSGRyd3hyLXhyLXggICAxNSBqZWVmbyAgc3RhZmYgICA1MTBCIERlYyAyMyAgMjAxNyBqZWVmb19tb2R1bGVzIBtbMzltG1s0OW0gICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgICAgG1s2OzFIG1szMm3jg4QNChtbMzVtG1sxbeKenA0KGyhCG1ttG1szMm3jg4QNChtbMzVtG1sxbeKenBtbMTU7MUgbKEIbW20bWzMwbRtbNDNtZHJ3eHIteHIteCAgIDE1IGplZWZvICBzdGFmZiAgIDUxMEIgRGVjIDIzICAyMDE3IGplZWZvX21vZHVsZXMgG1syMjsxSBtbNDltG1szMm3jg4QNChtbMzVtG1sxbeKenBtbMTU7NjNIGyhCG1tt\",\"target\":\"XTerm:1\",\"delta_time\":119.348915}]",
-    "timestamp_offset": 117.96979000000006,
-    "duration": 3.0300899999999675
-}
