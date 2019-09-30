@@ -1,0 +1,6 @@
+{
+    "id": 100,
+    "events": "[{\"name\":\"tab_change\",\"data\":{\"index\":0},\"target\":\":player:\",\"delta_time\":303.30941500000023},{\"name\":\"tab_change\",\"data\":{\"index\":1},\"target\":\":player:\",\"delta_time\":304.56413500000014}]",
+    "timestamp_offset": 301.81969500000014,
+    "duration": 3.0015299999999696
+}

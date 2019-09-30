@@ -1,0 +1,6 @@
+{
+    "id": 108,
+    "events": "[{\"name\":\"tab_change\",\"data\":{\"index\":0},\"target\":\":player:\",\"delta_time\":327.6994050000003},{\"name\":\"cursor\",\"data\":{\"cursor\":{\"line\":11,\"ch\":6,\"sticky\":\"before\",\"xRel\":213.390625},\"selections\":[{\"anchor\":{\"line\":11,\"ch\":6,\"sticky\":\"before\",\"xRel\":213.390625},\"head\":{\"line\":11,\"ch\":6,\"sticky\":\"before\",\"xRel\":213.390625}}]},\"target\":\"Code Mirror:0\",\"delta_time\":328.55455000000035},{\"name\":\"cursor\",\"data\":{\"cursor\":{\"line\":5,\"ch\":54,\"sticky\":\"before\",\"xRel\":47.4375},\"selections\":[{\"anchor\":{\"line\":5,\"ch\":54,\"sticky\":\"before\",\"xRel\":47.4375},\"head\":{\"line\":5,\"ch\":54,\"sticky\":\"before\",\"xRel\":47.4375}}]},\"target\":\"Code Mirror:0\",\"delta_time\":329.0431800000002}]",
+    "timestamp_offset": 326.0606150000002,
+    "duration": 3.0600599999998233
+}

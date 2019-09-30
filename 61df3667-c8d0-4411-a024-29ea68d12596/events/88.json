@@ -1,0 +1,6 @@
+{
+    "id": 88,
+    "events": "[{\"name\":\"stdin\",\"data\":\"G1syOzFIG1szMm3jg4QNChtbMzVtG1sxbeKenBtbNzsxSBsoQhtbbRtbMzJt44OEDQobWzM1bRtbMW3inpwNChsoQhtbbRtbMzJt44OEDQobWzM1bRtbMW3inpwbWzE0OzFIGyhCG1ttLXJ3LXItLXItLSAgMSBqZWVmbyAgc3RhZmYgICA1LjBLIFNlcCAxMyAxMjozMCBtZF9pbnB1dF9jb250YWluZXIuanMgG1syMjsxSBtbMzJt44OEDQobWzM1bRtbMW3inpwbWzE0OzY5SBsoQhtbbQ==\",\"target\":\"XTerm:1\",\"delta_time\":267.62696000000005},{\"name\":\"stdin\",\"data\":\"G1syOzFIG1szMm3jg4QNChtbMzVtG1sxbeKenBtbNzsxSBsoQhtbbRtbMzJt44OEDQobWzM1bRtbMW3inpwNChsoQhtbbRtbMzJt44OEDQobWzM1bRtbMW3inpwbWzIyOzFIGyhCG1ttG1szMm3jg4QNChtbMzVtG1sxbeKenBtbMTQ7NjlIGyhCG1tt\",\"target\":\"XTerm:1\",\"delta_time\":267.74034000000034},{\"name\":\"stdin\",\"data\":\"DRtbMzBtG1s0M20tcnctci0tci0tICAxIGplZWZvICBzdGFmZiAgIDUuMEsgU2VwIDEzIDEyOjMwIG1kX2lucHV0X2NvbnRhaW5lci5qcyAbWzE1OzYxSBsoQhtbbQ==\",\"target\":\"XTerm:1\",\"delta_time\":268.1910050000002}]",
+    "timestamp_offset": 265.5409800000002,
+    "duration": 3.0600899999999673
+}

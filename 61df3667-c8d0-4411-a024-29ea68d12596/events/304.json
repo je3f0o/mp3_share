@@ -1,0 +1,6 @@
+{
+    "id": 304,
+    "events": "[{\"name\":\"tab_change\",\"data\":{\"index\":0},\"target\":\":player:\",\"delta_time\":918.6048850000002},{\"name\":\"cursor\",\"data\":{\"cursor\":{\"line\":13,\"ch\":0,\"sticky\":\"after\",\"xRel\":527},\"selections\":[{\"anchor\":{\"line\":13,\"ch\":0,\"sticky\":\"after\",\"xRel\":527},\"head\":{\"line\":13,\"ch\":0,\"sticky\":\"after\",\"xRel\":527}}]},\"target\":\"Code Mirror:0\",\"delta_time\":919.3974000000003},{\"name\":\"cursor\",\"data\":{\"cursor\":{\"line\":11,\"ch\":6,\"sticky\":\"before\",\"xRel\":192.390625},\"selections\":[{\"anchor\":{\"line\":11,\"ch\":6,\"sticky\":\"before\",\"xRel\":192.390625},\"head\":{\"line\":11,\"ch\":6,\"sticky\":\"before\",\"xRel\":192.390625}}]},\"target\":\"Code Mirror:0\",\"delta_time\":919.8687050000003},{\"name\":\"tab_change\",\"data\":{\"index\":1},\"target\":\":player:\",\"delta_time\":920.6561900000002}]",
+    "timestamp_offset": 918.4007800000004,
+    "duration": 3.000050000000163
+}

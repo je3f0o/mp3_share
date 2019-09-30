@@ -1,0 +1,6 @@
+{
+    "id": 0,
+    "events": "[{\"name\":\"cursor\",\"data\":{\"cursor\":{\"line\":7,\"ch\":14,\"sticky\":\"before\",\"xRel\":-3.4375},\"selections\":[{\"anchor\":{\"line\":7,\"ch\":14,\"sticky\":\"before\",\"xRel\":-3.4375},\"head\":{\"line\":7,\"ch\":14,\"sticky\":\"before\",\"xRel\":-3.4375}}]},\"target\":\"Code Mirror:0\",\"delta_time\":0.8705050000003212},{\"name\":\"tab_change\",\"data\":{\"index\":1},\"target\":\":player:\",\"delta_time\":1.846255000000383}]",
+    "timestamp_offset": 0,
+    "duration": 3.0008050000001276
+}
