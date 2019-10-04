@@ -1,0 +1,6 @@
+{
+    "id": 345,
+    "events": "[{\"name\":\"stdin\",\"data\":\"OQ==\",\"target\":\"XTerm:1\",\"delta_time\":1043.7385750000012},{\"name\":\"stdin\",\"data\":\"OA==\",\"target\":\"XTerm:1\",\"delta_time\":1043.8642750000001},{\"name\":\"stdin\",\"data\":\"Lmpzb24g\",\"target\":\"XTerm:1\",\"delta_time\":1043.9820799999998}]",
+    "timestamp_offset": 1041.4717149999997,
+    "duration": 3.069975000000326
+}

@@ -1,5 +1,9 @@
 [
     {
+        "id"   : "50b16b16-f4e9-4874-a34b-6948067c7fc2",
+        "name" : "WebRTC Live Stream Test"
+    },
+    {
         "id"   : "b10077d7-f51b-47d2-82fb-2b54e9297e6b",
         "name" : "Javascript beginners"
     },

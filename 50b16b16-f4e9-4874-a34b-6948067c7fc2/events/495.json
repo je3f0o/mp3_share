@@ -1,0 +1,6 @@
+{
+    "id": 495,
+    "events": "[{\"name\":\"stdin\",\"data\":\"dg==\",\"target\":\"XTerm:1\",\"delta_time\":1496.667665000001},{\"name\":\"stdin\",\"data\":\"aQ==\",\"target\":\"XTerm:1\",\"delta_time\":1496.770770000001},{\"name\":\"stdin\",\"data\":\"bQ==\",\"target\":\"XTerm:1\",\"delta_time\":1496.8487999999998}]",
+    "timestamp_offset": 1493.911419999998,
+    "duration": 3.0000350000010805
+}
