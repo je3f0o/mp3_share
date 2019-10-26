@@ -1,0 +1,6 @@
+{
+    "id": 601,
+    "events": "[{\"type\":\"cursor\",\"target\":\"Main player:tab[0]\",\"data\":{\"position\":{\"line\":6,\"ch\":6,\"sticky\":\"after\"},\"selections\":[{\"anchor\":{\"line\":6,\"ch\":6,\"sticky\":\"after\"},\"head\":{\"line\":6,\"ch\":6,\"sticky\":\"after\"}}]},\"delta_time\":1803.5224250000028},{\"type\":\"change\",\"target\":\"Main player:tab[0]\",\"data\":{\"from\":{\"line\":6,\"ch\":6,\"sticky\":\"after\"},\"to\":{\"line\":6,\"ch\":6,\"sticky\":\"after\"},\"text\":[\"s\"],\"removed\":[\"\"],\"origin\":\"+input\"},\"delta_time\":1803.8271900000036},{\"type\":\"cursor\",\"target\":\"Main player:tab[0]\",\"data\":{\"position\":{\"line\":6,\"ch\":7,\"sticky\":null},\"selections\":[{\"anchor\":{\"line\":6,\"ch\":7,\"sticky\":null},\"head\":{\"line\":6,\"ch\":7,\"sticky\":null}}]},\"delta_time\":1803.8272300000026}]",
+    "timestamp_offset": 1802.2475899999988,
+    "duration": 3.0040599999993574
+}

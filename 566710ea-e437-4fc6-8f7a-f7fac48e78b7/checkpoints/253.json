@@ -1,0 +1,124 @@
+{
+    "id": 253,
+    "events": [
+        {
+            "target": "Video chat",
+            "data": {
+                "volume": 1,
+                "is_muted": false,
+                "duration": 756.9800499999982,
+                "stream_id": 1,
+                "started_at": 0.005420000001322478
+            }
+        },
+        {
+            "target": "Com channel",
+            "data": {
+                "volume": 1,
+                "is_muted": false,
+                "duration": 756.976315,
+                "stream_id": 2,
+                "started_at": 0.009174999999231659
+            }
+        },
+        {
+            "target": "Main player",
+            "data": {
+                "tabs": [
+                    {
+                        "type": "code_mirror",
+                        "label": "Code Mirror"
+                    },
+                    {
+                        "type": "xterm",
+                        "label": "XTerm",
+                        "is_activated": true
+                    }
+                ]
+            }
+        },
+        {
+            "target": "Main player:tab[0]",
+            "data": {
+                "value": "",
+                "cursor": {
+                    "position": {
+                        "line": 0,
+                        "ch": 0,
+                        "sticky": null
+                    },
+                    "selections": [
+                        {
+                            "anchor": {
+                                "line": 0,
+                                "ch": 0,
+                                "sticky": null
+                            },
+                            "head": {
+                                "line": 0,
+                                "ch": 0,
+                                "sticky": null
+                            }
+                        }
+                    ]
+                },
+                "scroll_position": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "target": "Main player:tab[1]",
+            "data": {
+                "state": {
+                    "cursor": {
+                        "pos": {
+                            "x": 18,
+                            "y": 12
+                        },
+                        "attr": {
+                            "fg": 0,
+                            "bg": 0
+                        },
+                        "state": 1
+                    },
+                    "buffers": {
+                        "alt": {
+                            "buffer": "\u001b[32met\":\"Main player:tab[1]\",\"data\":\"CBtbMzBtG1s0M200MHgzNjAsIFNBUiAxOjEgREFSG1sxNzs4MkgbKEIbW20\u001b[30;43m[38/397]\r\n\u001b[32;49ma_time\":294.74757500000123},{\"type\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"CBtbMzBtG1s0M202ND\r\nB4MzYwLCBTQVIgMToxIERBUhtbMTc7ODFIGyhCG1tt\",\"delta_time\":294.93882999999914},{\"type\":\"stdin\",\"target\r\n\":\"Main player:tab[1]\",\"data\":\"CBtbMzBtG1s0M20gNjQweDM2MCwgU0FSIDE6MSBEQVIbWzE3OzgwSBsoQhtbbQ==\",\"de\r\nlta_time\":295.1328199999989}]'\u001b[39m,                                                                     \r\n  timestamp_offset: \u001b[33m294.4267000000036\u001b[39m,                                                              \r\n  duration: \u001b[33m3.003904999997758\u001b[39m }                                                                     \r\n> events = JSON.parse(e.events);                                                                    \r\n[ { type: \u001b[32m'stdin'\u001b[39m,                                                                                  \r\n    target: \u001b[32m'Main player:tab[1]'\u001b[39m,                                                                   \r\n    data: \u001b[32m'CBtbMzBtG1s0M21BUiAxOjEgREFSG1sxNzs5MUgbKEIbW20='\u001b[39m,                                       \r\n    delta_time: \u001b[33m294.4513700000025\u001b[39m },                                                                \r\n\u001b[30;43m  { type: 'stdin', \u001b[39;49m                                                                                 \r\n    target: \u001b[32m'Main player:tab[1]'\u001b[39m,                                                                   \r\n    data: \u001b[32m'CBtbMzBtG1s0M21TQVIgMToxIERBUhtbMTc7OTBIGyhCG1tt'\u001b[39m,                                       \r\n    delta_time: \u001b[33m294.4829099999988\u001b[39m },                                                                \r\n  { type: \u001b[32m'stdin'\u001b[39m,                                                                                  \r\n    target: \u001b[32m'Main player:tab[1]'\u001b[39m,                                                                   \r\n    data: \u001b[32m'CBtbMzBtG1s0M20gU0FSIDE6MSBEQVIbWzE3Ozg5SBsoQhtbbQ=='\u001b[39m,                                   \r\n    delta_time: \u001b[33m294.5176849999989\u001b[39m },                                                                \r\n  { type: \u001b[32m'stdin'\u001b[39m,                                                                                  \r\n    target: \u001b[32m'Main player:tab[1]'\u001b[39m,                                                                   \r\n    data: \u001b[32m'CBtbMzBtG1s0M20sIFNBUiAxOjEgREFSG1sxNzs4OEgbKEIbW20='\u001b[39m,                                   \r\n\u001b[38;5;160;48;5;16mjeefo\u001b[37m on \u001b[32mjeefo-macbook.pro \u001b[37m| \u001b[38;5;127mtmux current session name \u001b[38;5;202m[2]\u001b[37m                                \u001b[1;38;5;26m1:events*\u001b[22;37m "
+                        },
+                        "normal": {
+                            "buffer": "\u001b[32mツ \u001b[39min \u001b[34m~/projects/my_own_secret_project\u001b[32m git (master) ⚡\u001b[39m                                               \r\n\u001b[1;35m➜ \u001b[22;39mcd public/sessions/                                                                               \r\n\u001b[32mツ \u001b[39min \u001b[34m~/projects/my_own_secret_project/public/sessions\u001b[32m git (master) ⚡\u001b[39m                               \r\n\u001b[1;35m➜ \u001b[22;39mll                                                                                                \r\ntotal 0                                                                                             \r\ndrwxr-xr-x  5 jeefo  staff   170B Oct 26 11:33 \u001b[1;34m566710ea-e437-4fc6-8f7a-f7fac48e78b7\u001b[22;39m                 \r\n\u001b[32mツ \u001b[39min \u001b[34m~/projects/my_own_secret_project/public/sessions\u001b[32m git (master) ⚡\u001b[39m                               \r\n\u001b[1;35m➜ \u001b[22;39mtmux_local                                                                                        \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    ",
+                            "saved_cursor": {
+                                "pos": {
+                                    "x": 0,
+                                    "y": 8
+                                },
+                                "attr": {
+                                    "fg": 0,
+                                    "bg": 0
+                                }
+                            }
+                        },
+                        "active_buffer": "alt"
+                    }
+                },
+                "options": {
+                    "rows": 24,
+                    "cols": 100,
+                    "termName": "xterm-256color",
+                    "fontSize": 16,
+                    "fontFamily": "MonacoB, Inconsolata",
+                    "fontWeight": "bold",
+                    "cursorStyle": "block",
+                    "drawBoldTextInBrightColors": true,
+                    "tabStopWidth": 4,
+                    "screenKeys": true,
+                    "macOptionIsMeta": true,
+                    "macOptionClickForcesSelection": true
+                }
+            }
+        }
+    ],
+    "timestamp_offset": 756.9854600000034
+}

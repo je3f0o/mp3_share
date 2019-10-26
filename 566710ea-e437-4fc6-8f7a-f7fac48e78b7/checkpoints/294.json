@@ -1,0 +1,124 @@
+{
+    "id": 294,
+    "events": [
+        {
+            "target": "Video chat",
+            "data": {
+                "volume": 1,
+                "is_muted": false,
+                "duration": 880.1242799999962,
+                "stream_id": 1,
+                "started_at": 0.005420000001322478
+            }
+        },
+        {
+            "target": "Com channel",
+            "data": {
+                "volume": 1,
+                "is_muted": false,
+                "duration": 880.1205499999995,
+                "stream_id": 2,
+                "started_at": 0.009174999999231659
+            }
+        },
+        {
+            "target": "Main player",
+            "data": {
+                "tabs": [
+                    {
+                        "type": "code_mirror",
+                        "label": "Code Mirror"
+                    },
+                    {
+                        "type": "xterm",
+                        "label": "XTerm",
+                        "is_activated": true
+                    }
+                ]
+            }
+        },
+        {
+            "target": "Main player:tab[0]",
+            "data": {
+                "value": "\n\n\t499 230 368 Худалдаа хөгжлийн банк, Д.Батхишиг\n\n\n",
+                "cursor": {
+                    "position": {
+                        "line": 2,
+                        "ch": 47,
+                        "sticky": null
+                    },
+                    "selections": [
+                        {
+                            "anchor": {
+                                "line": 2,
+                                "ch": 47,
+                                "sticky": null
+                            },
+                            "head": {
+                                "line": 2,
+                                "ch": 47,
+                                "sticky": null
+                            }
+                        }
+                    ]
+                },
+                "scroll_position": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "target": "Main player:tab[1]",
+            "data": {
+                "state": {
+                    "cursor": {
+                        "pos": {
+                            "x": 6,
+                            "y": 22
+                        },
+                        "attr": {
+                            "fg": 0,
+                            "bg": 0
+                        },
+                        "state": 1
+                    },
+                    "buffers": {
+                        "alt": {
+                            "buffer": "\u001b[1;35m➜ \u001b[22;39m..                                                                                                \r\n\u001b[32mツ \u001b[39min \u001b[34m~/projects/my_own_secret_project\u001b[32m git (master) ⚡\u001b[39m                                               \r\n\u001b[1;35m➜ \u001b[22;39mll                                                                                                \r\ntotal 144                                                                                           \r\ndrwxr-xr-x   16 jeefo  staff   544B Oct 13 22:30 \u001b[1;34m@jeefo\u001b[22;39m                                             \r\n-rw-r--r--    1 jeefo  staff    99B Sep 30 19:39 agenda.md                                          \r\n-rw-r--r--    1 jeefo  staff   573B Sep 28 05:46 cert.sh                                            \r\ndrwxr-xr-x    4 jeefo  staff   136B Sep 27 05:51 \u001b[1;34mcerts\u001b[22;39m                                              \r\n-rw-r--r--    1 jeefo  staff    89B Sep 28 04:02 colors.sh                                          \r\n-rw-r--r--    1 jeefo  staff   1.2K Sep 26 03:49 config.js                                          \r\ndrwxr-xr-x   27 jeefo  staff   918B Oct 26 09:23 \u001b[1;34mfront_end\u001b[22;39m                                          \r\n-rw-r--r--    1 jeefo  staff    63B Oct 17 00:11 git_push.sh                                        \r\n-rw-r--r--    1 jeefo  staff   4.4K Oct  3 23:18 index.js                                           \r\ndrwxr-xr-x  107 jeefo  staff   3.6K Sep 29 08:37 \u001b[1;34mnode_modules\u001b[22;39m                                       \r\n-rw-r--r--    1 jeefo  staff    35K Sep 29 08:37 package-lock.json                                  \r\n-rw-r--r--    1 jeefo  staff   1.4K Oct 17 00:03 package.json                                       \r\ndrwxr-xr-x    2 jeefo  staff    68B May 29 02:01 \u001b[1;34mpty\u001b[22;39m                                                \r\ndrwxr-xr-x   17 jeefo  staff   578B Oct 13 22:25 \u001b[1;34mpublic\u001b[22;39m                                             \r\n-rw-r--r--    1 jeefo  staff   1.0K Sep 29 07:25 segmenting.js                                      \r\ndrwxr-xr-x    8 jeefo  staff   272B Oct 11 02:11 \u001b[1;34mserver\u001b[22;39m                                             \r\ndrwxr-xr-x   13 jeefo  staff   442B Oct 19 11:40 \u001b[1;34mservice_worker\u001b[22;39m                                     \r\n\u001b[32mツ \u001b[39min \u001b[34m~/projects/my_own_secret_project\u001b[32m git (master) ⚡\u001b[39m                                               \r\n\u001b[1;35m➜ \u001b[22;39mcd f                                                                                              \r\n\u001b[38;5;160;48;5;16mjeefo\u001b[37m on \u001b[32mjeefo-macbook.pro \u001b[37m| \u001b[38;5;127mtmux current session name \u001b[38;5;202m[2]\u001b[37m                 \u001b[1;38;5;26m1:my_own_secret_project*\u001b[22;37m "
+                        },
+                        "normal": {
+                            "buffer": "\u001b[32mツ \u001b[39min \u001b[34m~/projects/my_own_secret_project\u001b[32m git (master) ⚡\u001b[39m                                               \r\n\u001b[1;35m➜ \u001b[22;39mcd public/sessions/                                                                               \r\n\u001b[32mツ \u001b[39min \u001b[34m~/projects/my_own_secret_project/public/sessions\u001b[32m git (master) ⚡\u001b[39m                               \r\n\u001b[1;35m➜ \u001b[22;39mll                                                                                                \r\ntotal 0                                                                                             \r\ndrwxr-xr-x  5 jeefo  staff   170B Oct 26 11:33 \u001b[1;34m566710ea-e437-4fc6-8f7a-f7fac48e78b7\u001b[22;39m                 \r\n\u001b[32mツ \u001b[39min \u001b[34m~/projects/my_own_secret_project/public/sessions\u001b[32m git (master) ⚡\u001b[39m                               \r\n\u001b[1;35m➜ \u001b[22;39mtmux_local                                                                                        \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    ",
+                            "saved_cursor": {
+                                "pos": {
+                                    "x": 0,
+                                    "y": 8
+                                },
+                                "attr": {
+                                    "fg": 0,
+                                    "bg": 0
+                                }
+                            }
+                        },
+                        "active_buffer": "alt"
+                    }
+                },
+                "options": {
+                    "rows": 24,
+                    "cols": 100,
+                    "termName": "xterm-256color",
+                    "fontSize": 16,
+                    "fontFamily": "MonacoB, Inconsolata",
+                    "fontWeight": "bold",
+                    "cursorStyle": "block",
+                    "drawBoldTextInBrightColors": true,
+                    "tabStopWidth": 4,
+                    "screenKeys": true,
+                    "macOptionIsMeta": true,
+                    "macOptionClickForcesSelection": true
+                }
+            }
+        }
+    ],
+    "timestamp_offset": 880.1296950000034
+}

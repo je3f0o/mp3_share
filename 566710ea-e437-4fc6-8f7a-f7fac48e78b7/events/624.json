@@ -1,0 +1,6 @@
+{
+    "id": 624,
+    "events": "[{\"type\":\"stop_stream_record\",\"target\":\"Video chat\",\"data\":{\"duration\":1872.4226049999997,\"chunks_length\":620},\"delta_time\":1872.4256600000006},{\"type\":\"stop_stream_record\",\"target\":\"Com channel\",\"data\":{\"duration\":1872.422680000003,\"chunks_length\":621},\"delta_time\":1872.4283900000007}]",
+    "timestamp_offset": 1871.339359999998,
+    "duration": 1.0897400000030175
+}

@@ -1,0 +1,6 @@
+{
+    "id": 501,
+    "events": "[{\"type\":\"change\",\"target\":\"Main player:tab[0]\",\"data\":{\"from\":{\"line\":8,\"ch\":23,\"sticky\":null},\"to\":{\"line\":8,\"ch\":23,\"sticky\":null},\"text\":[\"0\"],\"removed\":[\"\"],\"origin\":\"+input\"},\"delta_time\":1504.570319999999},{\"type\":\"cursor\",\"target\":\"Main player:tab[0]\",\"data\":{\"position\":{\"line\":8,\"ch\":24,\"sticky\":null},\"selections\":[{\"anchor\":{\"line\":8,\"ch\":24,\"sticky\":null},\"head\":{\"line\":8,\"ch\":24,\"sticky\":null}}]},\"delta_time\":1504.570330000002}]",
+    "timestamp_offset": 1501.8652199999997,
+    "duration": 3.003105000003241
+}

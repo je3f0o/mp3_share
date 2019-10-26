@@ -1,6 +1,0 @@
-{
-    "id": 82,
-    "events": "[{\"name\":\"stdin\",\"data\":\"DRtbMzBtG1s0M20tcnctci0tci0tICAxIGplZWZvICBzdGFmZiAgIDQuMksgU2VwIDE0IDE4OjE4IG1kX2ljb24uanMgG1sxNDs2OUgbKEIbW20=\",\"target\":\"XTerm:1\",\"delta_time\":247.8792150000004},{\"name\":\"stdin\",\"data\":\"DRtbMzBtG1s0M20tcnctci0tci0tICAxIGplZWZvICBzdGFmZiAgIDUuMEsgU2VwIDEzIDEyOjMwIG1kX2lucHV0X2NvbnRhaW5lci5qcyAbWzI7MUgbWzQ5bRtbMzJt44OEDQobWzM1bRtbMW3inpwbWzc7MUgbKEIbW20bWzMybeODhA0KG1szNW0bWzFt4p6cDQobKEIbW20bWzMybeODhA0KG1szNW0bWzFt4p6cG1sxMzsxSBsoQhtbbS1ydy1yLS1yLS0gIDEgamVlZm8gIHN0YWZmICAgNC4ySyBTZXAgMTQgMTg6MTggbWRfaWNvbi5qcyANChtbMzBtG1s0M20tcnctci0tci0tICAxIGplZWZvICBzdGFmZiAgIDUuMEsgU2VwIDEzIDEyOjMwIG1kX2lucHV0X2NvbnRhaW5lci5qcyAbWzIyOzFIG1s0OW0bWzMybeODhA0KG1szNW0bWzFt4p6cG1sxNDs2OUgbKEIbW20=\",\"target\":\"XTerm:1\",\"delta_time\":248.50437500000044}]",
-    "timestamp_offset": 247.4803300000004,
-    "duration": 3.000109999999928
-}

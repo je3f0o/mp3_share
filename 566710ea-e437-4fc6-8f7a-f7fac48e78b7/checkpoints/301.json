@@ -1,0 +1,124 @@
+{
+    "id": 301,
+    "events": [
+        {
+            "target": "Video chat",
+            "data": {
+                "volume": 1,
+                "is_muted": false,
+                "duration": 901.1527149999966,
+                "stream_id": 1,
+                "started_at": 0.005420000001322478
+            }
+        },
+        {
+            "target": "Com channel",
+            "data": {
+                "volume": 1,
+                "is_muted": false,
+                "duration": 901.1489799999981,
+                "stream_id": 2,
+                "started_at": 0.009174999999231659
+            }
+        },
+        {
+            "target": "Main player",
+            "data": {
+                "tabs": [
+                    {
+                        "type": "code_mirror",
+                        "label": "Code Mirror"
+                    },
+                    {
+                        "type": "xterm",
+                        "label": "XTerm",
+                        "is_activated": true
+                    }
+                ]
+            }
+        },
+        {
+            "target": "Main player:tab[0]",
+            "data": {
+                "value": "\n\n\t499 230 368 Худалдаа хөгжлийн банк, Д.Батхишиг\n\n\n",
+                "cursor": {
+                    "position": {
+                        "line": 2,
+                        "ch": 47,
+                        "sticky": null
+                    },
+                    "selections": [
+                        {
+                            "anchor": {
+                                "line": 2,
+                                "ch": 47,
+                                "sticky": null
+                            },
+                            "head": {
+                                "line": 2,
+                                "ch": 47,
+                                "sticky": null
+                            }
+                        }
+                    ]
+                },
+                "scroll_position": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "target": "Main player:tab[1]",
+            "data": {
+                "state": {
+                    "cursor": {
+                        "pos": {
+                            "x": 29,
+                            "y": 5
+                        },
+                        "attr": {
+                            "fg": 0,
+                            "bg": 0
+                        },
+                        "state": 1
+                    },
+                    "buffers": {
+                        "alt": {
+                            "buffer": "\u001b[37;48;5;234m  5 \u001b[38;5;208;49mmodule.exports.controller\u001b[48;5;234m \u001b[49m= class XtermController extends IMonitoringObject {\u001b[38;5;255m  \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m  4 \u001b[38;5;208;49m    //constructor () {}\u001b[38;5;255m  \u001b[48;5;234m \u001b[39;49m                                                     \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m  3 \u001b[39;49m                         \u001b[38;5;255;48;5;234m \u001b[39;49m                                                     \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m  2 \u001b[38;5;208;49m    on_init ($element) {\u001b[38;5;255m \u001b[48;5;234m \u001b[39;49m                                                     \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m  1 \u001b[38;5;208;49m        $element.once(\"re\u001b[48;5;234mn\u001b[49mderable\", async () => {\u001b[39m                              \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[1;93;48;5;55m125 \u001b[22;38;5;208;49m            const { state, is_activated } = this.tab;\u001b[39m                          \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m  1 \u001b[38;5;208;49m            const term = \u001b[48;5;234mn\u001b[49mew Terminal(default_options);\u001b[39m                        \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m  2 \u001b[38;5;208;49m            const _tab = \u001b[48;5;234mt\u001b[49mhis[tab_prop];\u001b[39m                                       \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m  3 \u001b[39;49m                         \u001b[38;5;255;48;5;234m \u001b[39;49m                                                     \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m  4 \u001b[38;5;208;49m            // Connected\u001b[38;5;255m \u001b[48;5;234m \u001b[39;49m                                                     \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m  5 \u001b[38;5;208;49m            const event =\u001b[48;5;234m \u001b[49mnew Event(\"change_name\");\u001b[39m                            \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m  6 \u001b[38;5;208;49m            event.value =\u001b[48;5;234m \u001b[49mthis.monitoringName;\u001b[39m                                 \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m  7 \u001b[38;5;208;49m            this.emit(\"st\u001b[48;5;234ma\u001b[49mte\", event);\u001b[39m                                         \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m  8 \u001b[39;49m                         \u001b[38;5;255;48;5;234m \u001b[39;49m                                                     \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m  9 \u001b[38;5;208;49m            //this.on(\"ev\u001b[48;5;234me\u001b[49mnt\", event => {});\u001b[39m                                   \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m 10 \u001b[39;49m                         \u001b[38;5;255;48;5;234m \u001b[39;49m                                                     \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m 11 \u001b[38;5;208;49m            term.open($el\u001b[48;5;234me\u001b[49mment.DOM_element);\u001b[39m                                   \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m 12 \u001b[38;5;208;49m            //term._core.\u001b[48;5;234m_\u001b[49mrenderCoordinator._onIntersectionChange = () => {};\u001b[38;5;255m  \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m 13 \u001b[38;5;208;49m            // It might b\u001b[48;5;234me\u001b[49m paused for some reason. In this case:\u001b[39m               \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m 14 \u001b[38;5;208;49m            //term._core.\u001b[48;5;234m_\u001b[49mrenderCoordinator._isPaused = false;\u001b[39m                 \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m 15 \u001b[39;49m                         \u001b[38;5;255;48;5;234m \u001b[39;49m                                                     \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[38;5;17;48;5;190m \u001b[1mNORMAL\u001b[22m \u001b[38;5;190;48;5;238m\u001b[38;5;255m  master \u001b[38;5;238;48;5;234m\u001b[38;5;85m components/xterm.js               \u001b[38;5;234m\u001b[38;5;85m javascript \u001b[38;5;238m\u001b[38;5;255;48;5;238m utf-8[unix] \u001b[38;5;190m\u001b[38;5;17;48;5;190m  45% \u001b[1m 125\u001b[22m: 26  \r\n\u001b[38;5;255;49m\"components/xterm.js\" 274L, 8551C\u001b[39m                                                                   \r\n\u001b[38;5;160;48;5;16mjeefo\u001b[37m on \u001b[32mjeefo-macbook.pro \u001b[37m| \u001b[38;5;127mtmux current session name \u001b[38;5;202m[2]\u001b[37m                             \u001b[1;38;5;26m1:front_end*\u001b[22;37m "
+                        },
+                        "normal": {
+                            "buffer": "\u001b[32mツ \u001b[39min \u001b[34m~/projects/my_own_secret_project\u001b[32m git (master) ⚡\u001b[39m                                               \r\n\u001b[1;35m➜ \u001b[22;39mcd public/sessions/                                                                               \r\n\u001b[32mツ \u001b[39min \u001b[34m~/projects/my_own_secret_project/public/sessions\u001b[32m git (master) ⚡\u001b[39m                               \r\n\u001b[1;35m➜ \u001b[22;39mll                                                                                                \r\ntotal 0                                                                                             \r\ndrwxr-xr-x  5 jeefo  staff   170B Oct 26 11:33 \u001b[1;34m566710ea-e437-4fc6-8f7a-f7fac48e78b7\u001b[22;39m                 \r\n\u001b[32mツ \u001b[39min \u001b[34m~/projects/my_own_secret_project/public/sessions\u001b[32m git (master) ⚡\u001b[39m                               \r\n\u001b[1;35m➜ \u001b[22;39mtmux_local                                                                                        \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    ",
+                            "saved_cursor": {
+                                "pos": {
+                                    "x": 0,
+                                    "y": 8
+                                },
+                                "attr": {
+                                    "fg": 0,
+                                    "bg": 0
+                                }
+                            }
+                        },
+                        "active_buffer": "alt"
+                    }
+                },
+                "options": {
+                    "rows": 24,
+                    "cols": 100,
+                    "termName": "xterm-256color",
+                    "fontSize": 16,
+                    "fontFamily": "MonacoB, Inconsolata",
+                    "fontWeight": "bold",
+                    "cursorStyle": "block",
+                    "drawBoldTextInBrightColors": true,
+                    "tabStopWidth": 4,
+                    "screenKeys": true,
+                    "macOptionIsMeta": true,
+                    "macOptionClickForcesSelection": true
+                }
+            }
+        }
+    ],
+    "timestamp_offset": 901.1581250000016
+}

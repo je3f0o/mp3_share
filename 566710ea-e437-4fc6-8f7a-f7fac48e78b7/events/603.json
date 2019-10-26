@@ -1,0 +1,6 @@
+{
+    "id": 603,
+    "events": "[{\"type\":\"cursor\",\"target\":\"Main player:tab[0]\",\"data\":{\"position\":{\"line\":6,\"ch\":5,\"sticky\":\"before\"},\"selections\":[{\"anchor\":{\"line\":6,\"ch\":5,\"sticky\":\"before\"},\"head\":{\"line\":6,\"ch\":5,\"sticky\":\"before\"}}]},\"delta_time\":1810.5305300000034}]",
+    "timestamp_offset": 1808.2587800000038,
+    "duration": 3.0041149999960326
+}

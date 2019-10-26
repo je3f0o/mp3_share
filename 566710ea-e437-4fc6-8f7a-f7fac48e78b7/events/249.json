@@ -1,0 +1,6 @@
+{
+    "id": 249,
+    "events": "[{\"type\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"G1syMzsySA==\",\"delta_time\":745.8713050000007},{\"type\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"G1syMjszOEg=\",\"delta_time\":746.8490999999993},{\"type\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"G1syMTs3M0g=\",\"delta_time\":747.3679699999992},{\"type\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"G1syMDsxMEg=\",\"delta_time\":747.4067700000014},{\"type\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"G1sxOTszNEg=\",\"delta_time\":747.4129250000043},{\"type\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"G1sxODsxOUg=\",\"delta_time\":747.4468899999991},{\"type\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"G1sxNzszOEg=\",\"delta_time\":747.4801799999985},{\"type\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"G1sxNjs2OUg=\",\"delta_time\":747.5130900000003}]",
+    "timestamp_offset": 744.9712100000032,
+    "duration": 3.0031249999956926
+}

@@ -1,0 +1,6 @@
+{
+    "id": 1,
+    "events": "[{\"type\":\"start_stream_record\",\"target\":\"Video chat\",\"data\":{\"target\":\"Video chat\",\"session_id\":\"566710ea-e437-4fc6-8f7a-f7fac48e78b7\",\"stream_id\":1,\"mime\":\"video/webm; codecs=h264\"},\"delta_time\":0.006325000002107117},{\"type\":\"start_stream_record\",\"target\":\"Com channel\",\"data\":{\"target\":\"Com channel\",\"session_id\":\"566710ea-e437-4fc6-8f7a-f7fac48e78b7\",\"stream_id\":2,\"mime\":\"audio/webm; codecs=opus\"},\"delta_time\":0.009254999997210689}]",
+    "timestamp_offset": 0,
+    "duration": 3.0009100000024773
+}

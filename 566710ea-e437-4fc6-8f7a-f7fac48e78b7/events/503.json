@@ -1,0 +1,6 @@
+{
+    "id": 503,
+    "events": "[{\"type\":\"cursor\",\"target\":\"Main player:tab[0]\",\"data\":{\"position\":{\"line\":8,\"ch\":23,\"sticky\":\"before\",\"xRel\":-0.015625},\"selections\":[{\"anchor\":{\"line\":8,\"ch\":23,\"sticky\":\"before\",\"xRel\":-0.015625},\"head\":{\"line\":8,\"ch\":23,\"sticky\":\"before\",\"xRel\":-0.015625},\"goalColumn\":224.84375}]},\"delta_time\":1510.6494650000022},{\"type\":\"cursor\",\"target\":\"Main player:tab[0]\",\"data\":{\"position\":{\"line\":7,\"ch\":21,\"sticky\":\"before\",\"xRel\":19.171875},\"selections\":[{\"anchor\":{\"line\":7,\"ch\":21,\"sticky\":\"before\",\"xRel\":19.171875},\"head\":{\"line\":7,\"ch\":21,\"sticky\":\"before\",\"xRel\":19.171875},\"goalColumn\":224.84375}]},\"delta_time\":1510.7944399999978}]",
+    "timestamp_offset": 1507.8714899999977,
+    "duration": 3.0037800000063144
+}

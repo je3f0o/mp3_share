@@ -1,6 +1,0 @@
-{
-    "id": 674,
-    "events": "[{\"name\":\"stdin\",\"data\":\"G1s/MjVs\",\"target\":\"XTerm:1\",\"delta_time\":2035.9757600000012},{\"name\":\"stdin\",\"data\":\"G1sxZBtbMzg7NTsyNTVtIBtbNDg7NTsyMzRtIBtbMjsxM0gbWzQ5bSAbWzQ4OzU7MjM0bSAbWzM7MTNIG1s0OW0gG1s0ODs1OzIzNG0gG1s0OzEzSBtbMzg7NTsxOTZtIBtbNTsxM0gbWzQ5bRtbMzg7NTsyNTVtIBtbNDg7NTsyMzRtIBtbNjsxM0gbWzQ5bSAbWzQ4OzU7MjM0bSAbWzc7MTNIG1s0OW0gG1s0ODs1OzIzNG0gG1s4OzEzSBtbNDltIBtbNDg7NTsyMzRtKBtbOTsxM0gbWzQ5bSAbWzQ4OzU7MjM0bSAbWzEwOzEzSBtbNDltIBtbNDg7NTsyMzRtIBtbMjI7OTdIG1szODs1OzE3bRtbNDg7NTs0NW0xMBtbNDsxNEgbKEIbW20=\",\"target\":\"XTerm:1\",\"delta_time\":2035.9825550000007},{\"name\":\"stdin\",\"data\":\"G1s/MTJsG1s/MjVo\",\"target\":\"XTerm:1\",\"delta_time\":2035.990395000001}]",
-    "timestamp_offset": 2034.4411649999977,
-    "duration": 3.000170000000857
-}

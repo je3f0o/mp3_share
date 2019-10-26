@@ -1,0 +1,6 @@
+{
+    "id": 429,
+    "events": "[{\"type\":\"cursor\",\"target\":\"Main player:tab[0]\",\"data\":{\"position\":{\"line\":5,\"ch\":0,\"sticky\":\"after\",\"xRel\":217},\"selections\":[{\"anchor\":{\"line\":5,\"ch\":0,\"sticky\":\"after\",\"xRel\":217},\"head\":{\"line\":5,\"ch\":0,\"sticky\":\"after\",\"xRel\":217}}]},\"delta_time\":1286.851269999999},{\"type\":\"cursor\",\"target\":\"Main player:tab[0]\",\"data\":{\"position\":{\"line\":4,\"ch\":0,\"sticky\":\"after\",\"xRel\":0},\"selections\":[{\"anchor\":{\"line\":4,\"ch\":0,\"sticky\":\"after\",\"xRel\":0},\"head\":{\"line\":4,\"ch\":0,\"sticky\":\"after\",\"xRel\":0},\"goalColumn\":4}]},\"delta_time\":1287.6152349999975},{\"type\":\"change\",\"target\":\"Main player:tab[0]\",\"data\":{\"from\":{\"line\":4,\"ch\":0,\"sticky\":\"after\",\"xRel\":0},\"to\":{\"line\":4,\"ch\":0,\"sticky\":\"after\",\"xRel\":0},\"text\":[\"\",\"\"],\"removed\":[\"\"],\"origin\":\"+input\"},\"delta_time\":1287.9700450000018},{\"type\":\"cursor\",\"target\":\"Main player:tab[0]\",\"data\":{\"position\":{\"line\":5,\"ch\":0,\"sticky\":null},\"selections\":[{\"anchor\":{\"line\":5,\"ch\":0,\"sticky\":null},\"head\":{\"line\":5,\"ch\":0,\"sticky\":null}}]},\"delta_time\":1287.9700500000035}]",
+    "timestamp_offset": 1285.6113899999982,
+    "duration": 3.0043550000044053
+}

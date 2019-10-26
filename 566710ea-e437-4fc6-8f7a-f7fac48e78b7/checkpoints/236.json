@@ -1,0 +1,124 @@
+{
+    "id": 236,
+    "events": [
+        {
+            "target": "Video chat",
+            "data": {
+                "volume": 1,
+                "is_muted": false,
+                "duration": 705.9025550000007,
+                "stream_id": 1,
+                "started_at": 0.005420000001322478
+            }
+        },
+        {
+            "target": "Com channel",
+            "data": {
+                "volume": 1,
+                "is_muted": false,
+                "duration": 705.8988150000004,
+                "stream_id": 2,
+                "started_at": 0.009174999999231659
+            }
+        },
+        {
+            "target": "Main player",
+            "data": {
+                "tabs": [
+                    {
+                        "type": "code_mirror",
+                        "label": "Code Mirror"
+                    },
+                    {
+                        "type": "xterm",
+                        "label": "XTerm",
+                        "is_activated": true
+                    }
+                ]
+            }
+        },
+        {
+            "target": "Main player:tab[0]",
+            "data": {
+                "value": "",
+                "cursor": {
+                    "position": {
+                        "line": 0,
+                        "ch": 0,
+                        "sticky": null
+                    },
+                    "selections": [
+                        {
+                            "anchor": {
+                                "line": 0,
+                                "ch": 0,
+                                "sticky": null
+                            },
+                            "head": {
+                                "line": 0,
+                                "ch": 0,
+                                "sticky": null
+                            }
+                        }
+                    ]
+                },
+                "scroll_position": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "target": "Main player:tab[1]",
+            "data": {
+                "state": {
+                    "cursor": {
+                        "pos": {
+                            "x": 2,
+                            "y": 22
+                        },
+                        "attr": {
+                            "fg": 0,
+                            "bg": 0
+                        },
+                        "state": 1
+                    },
+                    "buffers": {
+                        "alt": {
+                            "buffer": "{ id: \u001b[33m99\u001b[39m,                                                                                           \r\n  events:                                                                                           \r\n   \u001b[32m'[{\"type\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"CBtbMzBtG1s0M21BUiAxOjEgREFSG1sxNzs5MUgbK\r\nEIbW20=\",\"delta_time\":294.4513700000025},{\"type\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"CBtbM\r\nzBtG1s0M21TQVIgMToxIERBUhtbMTc7OTBIGyhCG1tt\",\"delta_time\":294.4829099999988},{\"type\":\"stdin\",\"target\r\n\":\"Main player:tab[1]\",\"data\":\"CBtbMzBtG1s0M20gU0FSIDE6MSBEQVIbWzE3Ozg5SBsoQhtbbQ==\",\"delta_time\":29\r\n4.5176849999989},{\"type\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"CBtbMzBtG1s0M20sIFNBUiAxOjEgR\r\nEFSG1sxNzs4OEgbKEIbW20=\",\"delta_time\":294.54907999999705},{\"type\":\"stdin\",\"target\":\"Main player:tab[\r\n1]\",\"data\":\"CBtbMzBtG1s0M20wLCBTQVIgMToxIERBUhtbMTc7ODdIGyhCG1tt\",\"delta_time\":294.5821350000042},{\"\r\ntype\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"CBtbMzBtG1s0M202MCwgU0FSIDE6MSBEQVIbWzE3Ozg2SBso\r\nQhtbbQ==\",\"delta_time\":294.6154900000038},{\"type\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"CBtb\r\nMzBtG1s0M20zNjAsIFNBUiAxOjEgREFSG1sxNzs4NUgbKEIbW20=\",\"delta_time\":294.6486999999979},{\"type\":\"stdin\r\n\",\"target\":\"Main player:tab[1]\",\"data\":\"CBtbMzBtG1s0M214MzYwLCBTQVIgMToxIERBUhtbMTc7ODRIGyhCG1tt\",\"d\r\nelta_time\":294.6816000000035},{\"type\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"CBtbMzBtG1s0M20w\r\neDM2MCwgU0FSIDE6MSBEQVIbWzE3OzgzSBsoQhtbbQ==\",\"delta_time\":294.71626500000275},{\"type\":\"stdin\",\"targ\r\net\":\"Main player:tab[1]\",\"data\":\"CBtbMzBtG1s0M200MHgzNjAsIFNBUiAxOjEgREFSG1sxNzs4MkgbKEIbW20=\",\"delt\r\na_time\":294.74757500000123},{\"type\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"CBtbMzBtG1s0M202ND\r\nB4MzYwLCBTQVIgMToxIERBUhtbMTc7ODFIGyhCG1tt\",\"delta_time\":294.93882999999914},{\"type\":\"stdin\",\"target\r\n\":\"Main player:tab[1]\",\"data\":\"CBtbMzBtG1s0M20gNjQweDM2MCwgU0FSIDE6MSBEQVIbWzE3OzgwSBsoQhtbbQ==\",\"de\r\nlta_time\":295.1328199999989}]'\u001b[39m,                                                                     \r\n  timestamp_offset: \u001b[33m294.4267000000036\u001b[39m,                                                              \r\n  duration: \u001b[33m3.003904999997758\u001b[39m }                                                                     \r\n>                                                                                                   \r\n\u001b[38;5;160;48;5;16mjeefo\u001b[37m on \u001b[32mjeefo-macbook.pro \u001b[37m| \u001b[38;5;127mtmux current session name \u001b[38;5;202m[2]\u001b[37m                                \u001b[1;38;5;26m1:events*\u001b[22;37m "
+                        },
+                        "normal": {
+                            "buffer": "\u001b[32mツ \u001b[39min \u001b[34m~/projects/my_own_secret_project\u001b[32m git (master) ⚡\u001b[39m                                               \r\n\u001b[1;35m➜ \u001b[22;39mcd public/sessions/                                                                               \r\n\u001b[32mツ \u001b[39min \u001b[34m~/projects/my_own_secret_project/public/sessions\u001b[32m git (master) ⚡\u001b[39m                               \r\n\u001b[1;35m➜ \u001b[22;39mll                                                                                                \r\ntotal 0                                                                                             \r\ndrwxr-xr-x  5 jeefo  staff   170B Oct 26 11:33 \u001b[1;34m566710ea-e437-4fc6-8f7a-f7fac48e78b7\u001b[22;39m                 \r\n\u001b[32mツ \u001b[39min \u001b[34m~/projects/my_own_secret_project/public/sessions\u001b[32m git (master) ⚡\u001b[39m                               \r\n\u001b[1;35m➜ \u001b[22;39mtmux_local                                                                                        \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    ",
+                            "saved_cursor": {
+                                "pos": {
+                                    "x": 0,
+                                    "y": 8
+                                },
+                                "attr": {
+                                    "fg": 0,
+                                    "bg": 0
+                                }
+                            }
+                        },
+                        "active_buffer": "alt"
+                    }
+                },
+                "options": {
+                    "rows": 24,
+                    "cols": 100,
+                    "termName": "xterm-256color",
+                    "fontSize": 16,
+                    "fontFamily": "MonacoB, Inconsolata",
+                    "fontWeight": "bold",
+                    "cursorStyle": "block",
+                    "drawBoldTextInBrightColors": true,
+                    "tabStopWidth": 4,
+                    "screenKeys": true,
+                    "macOptionIsMeta": true,
+                    "macOptionClickForcesSelection": true
+                }
+            }
+        }
+    ],
+    "timestamp_offset": 705.9079649999984
+}

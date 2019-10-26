@@ -1,6 +1,0 @@
-{
-    "id": 971,
-    "events": "[{\"name\":\"stdin\",\"data\":\"G1tD\",\"target\":\"XTerm:1\",\"delta_time\":2931.4844200000007},{\"name\":\"stdin\",\"data\":\"G1tD\",\"target\":\"XTerm:1\",\"delta_time\":2931.6373900000003},{\"name\":\"stdin\",\"data\":\"G1tD\",\"target\":\"XTerm:1\",\"delta_time\":2931.7640000000015},{\"name\":\"stdin\",\"data\":\"G1tD\",\"target\":\"XTerm:1\",\"delta_time\":2931.8845550000005},{\"name\":\"stdin\",\"data\":\"G1tD\",\"target\":\"XTerm:1\",\"delta_time\":2932.0052550000005},{\"name\":\"stdin\",\"data\":\"G1tD\",\"target\":\"XTerm:1\",\"delta_time\":2932.441395},{\"name\":\"stdin\",\"data\":\"CA==\",\"target\":\"XTerm:1\",\"delta_time\":2932.6839099999997},{\"name\":\"stdin\",\"data\":\"CA==\",\"target\":\"XTerm:1\",\"delta_time\":2932.8442500000006},{\"name\":\"stdin\",\"data\":\"CA==\",\"target\":\"XTerm:1\",\"delta_time\":2933.0284300000008},{\"name\":\"stdin\",\"data\":\"Cg==\",\"target\":\"XTerm:1\",\"delta_time\":2933.5053500000013},{\"name\":\"stdin\",\"data\":\"G1tB\",\"target\":\"XTerm:1\",\"delta_time\":2934.0948050000006},{\"name\":\"stdin\",\"data\":\"G1tD\",\"target\":\"XTerm:1\",\"delta_time\":2934.299675}]",
-    "timestamp_offset": 2931.3809599999977,
-    "duration": 3.0004900000006893
-}

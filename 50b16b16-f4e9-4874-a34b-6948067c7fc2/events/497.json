@@ -1,6 +1,0 @@
-{
-    "id": 497,
-    "events": "[{\"name\":\"stdin\",\"data\":\"cA==\",\"target\":\"XTerm:1\",\"delta_time\":1502.4862300000004},{\"name\":\"stdin\",\"data\":\"cA==\",\"target\":\"XTerm:1\",\"delta_time\":1502.874145}]",
-    "timestamp_offset": 1499.911534999999,
-    "duration": 3.000214999999851
-}
