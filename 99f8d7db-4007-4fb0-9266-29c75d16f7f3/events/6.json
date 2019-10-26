@@ -1,0 +1,6 @@
+{
+    "id": 6,
+    "events": "[{\"type\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"dG11eF9sb2NhbCBhIC10IDI=\",\"delta_time\":16.2720049999998},{\"type\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"CAgICAgIG1s0UGxz\",\"delta_time\":16.541059999999998},{\"type\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"DQo=\",\"delta_time\":17.246009999999835},{\"type\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"MDogMSB3aW5kb3dzIChjcmVhdGVkIFNhdCBPY3QgMjYgMTE6MTA6MTMgMjAxOSkgWzE0M3gzN10gKGF0dGFjaGVkKQ0KMTogMSB3aW5kb3dzIChjcmVhdGVkIFNhdCBPY3QgMjYgMTE6MTE6MjQgMjAxOSkgWzE0M3gzN10gKGF0dGFjaGVkKQ0K\",\"delta_time\":17.25955999999994},{\"type\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"G1swOzMybeODhCAbWzBtaW4gG1swOzM0bX4vcHJvamVjdHMvbXlfb3duX3NlY3JldF9wcm9qZWN0G1swOzMybSBnaXQgKG1hc3Rlcikg4pqhDQo=\",\"delta_time\":17.281039999999834},{\"type\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"G1sxOzM1beKenCAbWzBt\",\"delta_time\":17.282040000000038}]",
+    "timestamp_offset": 15.04107500000007,
+    "duration": 3.017089999999822
+}

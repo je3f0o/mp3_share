@@ -1,0 +1,6 @@
+{
+    "id": 2387,
+    "events": "[{\"type\":\"stop_stream_record\",\"target\":\"Com channel\",\"data\":{\"duration\":7888.726050000002,\"chunks_length\":2607},\"delta_time\":7888.731710000002}]",
+    "timestamp_offset": 7887.516360000001,
+    "duration": 1.2168999999994412
+}

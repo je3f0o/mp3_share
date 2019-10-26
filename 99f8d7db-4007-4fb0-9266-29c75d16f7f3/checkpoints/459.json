@@ -1,0 +1,114 @@
+{
+    "id": 459,
+    "events": [
+        {
+            "target": "Com channel",
+            "data": {
+                "volume": 1,
+                "is_muted": false,
+                "duration": 1435.3809950000004,
+                "stream_id": 1,
+                "started_at": 0.013840000000054715
+            }
+        },
+        {
+            "target": "Main player",
+            "data": {
+                "tabs": [
+                    {
+                        "type": "code_mirror",
+                        "label": "Code Mirror"
+                    },
+                    {
+                        "type": "xterm",
+                        "label": "XTerm",
+                        "is_activated": true
+                    }
+                ]
+            }
+        },
+        {
+            "target": "Main player:tab[0]",
+            "data": {
+                "value": "",
+                "cursor": {
+                    "position": {
+                        "line": 0,
+                        "ch": 0,
+                        "sticky": null
+                    },
+                    "selections": [
+                        {
+                            "anchor": {
+                                "line": 0,
+                                "ch": 0,
+                                "sticky": null
+                            },
+                            "head": {
+                                "line": 0,
+                                "ch": 0,
+                                "sticky": null
+                            }
+                        }
+                    ]
+                },
+                "scroll_position": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "target": "Main player:tab[1]",
+            "data": {
+                "state": {
+                    "cursor": {
+                        "pos": {
+                            "x": 13,
+                            "y": 18
+                        },
+                        "attr": {
+                            "fg": 0,
+                            "bg": 0
+                        },
+                        "state": 1
+                    },
+                    "buffers": {
+                        "alt": {
+                            "buffer": "\u001b[96;48;5;242m  \u001b[37;48;5;234m 18 \u001b[38;5;196;49m/* expo\u001b[48;5;234mr\u001b[49mted*/\u001b[38;5;255m                     \u001b[39m  \u001b[38;5;255m    \u001b[39m \u001b[38;5;255m  \u001b[39m                                  \u001b[38;5;255m  \u001b[38;5;123;48;5;234m \u001b[39;49m              \r\n\u001b[96;48;5;242m  \u001b[37;48;5;234m 17 \u001b[38;5;255;49m       \u001b[48;5;234m \u001b[49m                          \u001b[39m  \u001b[38;5;255m    \u001b[39m \u001b[38;5;255m  \u001b[39m                                  \u001b[38;5;255m  \u001b[38;5;123;48;5;234m \u001b[39;49m              \r\n\u001b[38;5;249;40m   16 +-- 92 \u001b[48;5;234ml\u001b[40mines: Old crap codes... xD---------------------------------------------\u001b[38;5;123;48;5;234m-\u001b[38;5;249;40m--------------\r\n   15 +-- 39 \u001b[48;5;234ml\u001b[40mines: Screen capture constraints---------------------------------------\u001b[38;5;123;48;5;234m-\u001b[38;5;249;40m--------------\r\n\u001b[96;48;5;242m  \u001b[37;48;5;234m 14 \u001b[38;5;255;49m       \u001b[48;5;234m \u001b[49m                                        \u001b[39m                             \u001b[38;5;255m  \u001b[38;5;123;48;5;234m \u001b[39;49m              \r\n\u001b[96;48;5;242m  \u001b[37;48;5;234m 13 \u001b[38;5;196;49m// igno\u001b[48;5;234mr\u001b[49me:end\u001b[38;5;255m                                   \u001b[39m                             \u001b[38;5;255m  \u001b[38;5;123;48;5;234m \u001b[39;49m              \r\n\u001b[96;48;5;242m  \u001b[37;48;5;234m 12 \u001b[38;5;255;49m       \u001b[48;5;234m \u001b[49m                                        \u001b[39m                             \u001b[38;5;255m  \u001b[38;5;123;48;5;234m \u001b[39;49m              \r\n\u001b[96;48;5;242m  \u001b[37;48;5;234m 11 \u001b[36;49mconst\u001b[38;5;255m v\u001b[48;5;234me\u001b[49mndor          = require\u001b[38;5;222m(\u001b[38;5;208m\"@jeefo/material/services/vendor\"\u001b[38;5;222m)\u001b[38;5;255m;\u001b[39m          \u001b[38;5;255m  \u001b[38;5;123;48;5;234m \u001b[39;49m              \r\n\u001b[96;48;5;242m  \u001b[37;48;5;234m 10 \u001b[36;49mconst\u001b[38;5;255m I\u001b[48;5;234mM\u001b[49mediaMonitor   = require\u001b[38;5;222m(\u001b[38;5;208m\"./i_media_monitor\"\u001b[38;5;222m)\u001b[38;5;255m;\u001b[39m                        \u001b[38;5;255m  \u001b[38;5;123;48;5;234m \u001b[39;49m              \r\n\u001b[96;48;5;242m  \u001b[37;48;5;234m  9 \u001b[36;49mconst\u001b[38;5;255m a\u001b[48;5;234mu\u001b[49mdio_session   = require\u001b[38;5;222m(\u001b[38;5;208m\"../services/audio_session_service\"\u001b[38;5;222m)\u001b[38;5;255m;\u001b[39m        \u001b[38;5;255m  \u001b[38;5;123;48;5;234m \u001b[39;49m              \r\n\u001b[96;48;5;242m  \u001b[37;48;5;234m  8 \u001b[36;49mconst\u001b[38;5;255m s\u001b[48;5;234me\u001b[49mssion_manager = require\u001b[38;5;222m(\u001b[38;5;208m\"../services/session_manager\"\u001b[38;5;222m)\u001b[38;5;255m;\u001b[39m              \u001b[38;5;255m  \u001b[38;5;123;48;5;234m \u001b[39;49m              \r\n\u001b[96;48;5;242m  \u001b[37;48;5;234m  7 \u001b[38;5;255;49m       \u001b[48;5;234m \u001b[49m                                            \u001b[39m                         \u001b[38;5;255m  \u001b[38;5;123;48;5;234m \u001b[39;49m              \r\n\u001b[7;1;38;5;249m>>\u001b[27;22;37;48;5;234m  6 \u001b[36;49mconst\u001b[38;5;255m \u001b[104mr\u001b[48;5;234ma\u001b[49mtio            = \u001b[38;5;207m{\u001b[38;5;255m width : \u001b[36m16\u001b[31m,\u001b[38;5;255m height : \u001b[36m9\u001b[38;5;255m \u001b[38;5;207m}\u001b[38;5;255m;\u001b[39m                         \u001b[38;5;255m  \u001b[38;5;123;48;5;234m \u001b[39;49m              \r\n\u001b[7;1;38;5;249m>>\u001b[27;22;37;48;5;234m  5 \u001b[36;49mconst\u001b[38;5;255m \u001b[38;5;197;104mS\u001b[48;5;234mC\u001b[49mALE_FACTOR\u001b[38;5;255m     = \u001b[36m40\u001b[38;5;255m;                        \u001b[39m                         \u001b[38;5;255m  \u001b[38;5;123;48;5;234m \u001b[39;49m              \r\n\u001b[96;48;5;242m  \u001b[37;48;5;234m  4 \u001b[36;49mconst\u001b[38;5;255m v\u001b[48;5;234mi\u001b[49mdeo_devices    = \u001b[38;5;207m[]\u001b[38;5;255m;                                                   \u001b[38;5;123;48;5;234m \u001b[39;49m              \r\n\u001b[96;48;5;242m  \u001b[37;48;5;234m  3 \u001b[36;49mconst\u001b[38;5;255m \u001b[38;5;207m{\u001b[38;5;255;48;5;234m \u001b[49mmediaDevices \u001b[38;5;207m}\u001b[38;5;255m = navigator;                                            \u001b[38;5;123;48;5;234m \u001b[39;49m              \r\n\u001b[96;48;5;242m  \u001b[37;48;5;234m  2 \u001b[38;5;255;49m       \u001b[48;5;234m \u001b[49m                                                                       \u001b[38;5;123;48;5;234m \u001b[39;49m              \r\n\u001b[96;48;5;242m  \u001b[37;48;5;234m  1 \u001b[36;49mconst\u001b[38;5;255m w\u001b[48;5;234mi\u001b[49mdth = ration\u001b[34m.\u001b[38;5;255mwidth * \u001b[38;5;197mSCALE_FACTOR\u001b[38;5;255m;                                     \u001b[38;5;123;48;5;234m \u001b[39;49m              \r\n\u001b[96;48;5;242m  \u001b[1;93;48;5;55m161 \u001b[22;36;48;5;234mconst\u001b[38;5;255m e = ration\u001b[34m.\u001b[38;5;255mwidth * \u001b[38;5;197mSCALE_FACTOR\u001b[38;5;255m;                                         \u001b[38;5;123m \u001b[38;5;255m              \r\n\u001b[96;48;5;242m  \u001b[37;48;5;234m  1 \u001b[38;5;255;49m       \u001b[48;5;234m \u001b[49m                                                          \u001b[39m           \u001b[38;5;255m  \u001b[38;5;123;48;5;234m \u001b[39;49m              \r\n\u001b[96;48;5;242m  \u001b[37;48;5;234m  2 \u001b[36;49mconst\u001b[38;5;255m e\u001b[48;5;234mn\u001b[49mumerate_video_devices = \u001b[36masync\u001b[38;5;255m \u001b[38;5;222m()\u001b[38;5;255m => \u001b[38;5;207m{\u001b[38;5;255m                     \u001b[39m           \u001b[38;5;255m  \u001b[38;5;123;48;5;234m \u001b[39;49m              \r\n\u001b[38;5;17;48;5;45m \u001b[1mINSERT\u001b[22m \u001b[38;5;45;48;5;27m\u001b[38;5;255m  master \u001b[38;5;27;48;5;53m\u001b[38;5;255m <t.js[+]  \u001b[38;5;17m\u001b[97;48;5;17m javascript \u001b[38;5;27m\u001b[38;5;255;48;5;27m utf-8[unix] \u001b[38;5;45m\u001b[38;5;17;48;5;45m  34% \u001b[1m 161\u001b[22m:  8  \u001b[38;5;166m\u001b[38;5;232;48;5;166m [Syntax: line:0 (3)]  \r\n\u001b[1;38;5;255;49m-- INSERT --\u001b[22;39m                                                                                        \r\n\u001b[38;5;160;48;5;16mjeefo\u001b[37m on \u001b[32mjeefo-macbook.pro \u001b[37m| \u001b[38;5;127mtmux current session name \u001b[38;5;202m[0]\u001b[37m                               \u001b[1;38;5;26m1:public*Z\u001b[22;37m "
+                        },
+                        "normal": {
+                            "buffer": "\u001b[32mツ \u001b[39min \u001b[34m~/projects/my_own_secret_project\u001b[32m git (master) ⚡\u001b[39m                                               \r\n\u001b[1;35m➜ \u001b[22;39mtmux_local ls                                                                                     \r\n0: 1 windows (created Sat Oct 26 11:10:13 2019) [143x37] (attached)                                 \r\n1: 1 windows (created Sat Oct 26 11:11:24 2019) [143x37] (attached)                                 \r\n2: 1 windows (created Sat Oct 26 11:35:13 2019) [100x23]                                            \r\n\u001b[32mツ \u001b[39min \u001b[34m~/projects/my_own_secret_project\u001b[32m git (master) ⚡\u001b[39m                                               \r\n\u001b[1;35m➜ \u001b[22;39mtmux_local a -t 2                                                                                 \r\n[exited]                                                                                            \r\n\u001b[32mツ \u001b[39min \u001b[34m~/projects/my_own_secret_project\u001b[32m git (master) ⚡\u001b[39m                                               \r\n\u001b[1;35m➜ \u001b[22;39mtmux_local ls                                                                                     \r\n0: 1 windows (created Sat Oct 26 11:10:13 2019) [143x37] (attached)                                 \r\n1: 1 windows (created Sat Oct 26 11:11:24 2019) [143x37] (attached)                                 \r\n\u001b[32mツ \u001b[39min \u001b[34m~/projects/my_own_secret_project\u001b[32m git (master) ⚡\u001b[39m                                               \r\n\u001b[1;35m➜ \u001b[22;39mtmux_local a -t 0                                                                                 \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    ",
+                            "saved_cursor": {
+                                "pos": {
+                                    "x": 0,
+                                    "y": 14
+                                },
+                                "attr": {
+                                    "fg": 0,
+                                    "bg": 0
+                                }
+                            }
+                        },
+                        "active_buffer": "alt"
+                    }
+                },
+                "options": {
+                    "rows": 24,
+                    "cols": 100,
+                    "termName": "xterm-256color",
+                    "fontSize": 16,
+                    "fontFamily": "MonacoB, Inconsolata",
+                    "fontWeight": "bold",
+                    "cursorStyle": "bar",
+                    "drawBoldTextInBrightColors": true,
+                    "tabStopWidth": 4,
+                    "screenKeys": true,
+                    "macOptionIsMeta": true,
+                    "macOptionClickForcesSelection": true
+                }
+            }
+        }
+    ],
+    "timestamp_offset": 1435.394785
+}

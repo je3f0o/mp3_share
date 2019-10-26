@@ -1,0 +1,114 @@
+{
+    "id": 416,
+    "events": [
+        {
+            "target": "Com channel",
+            "data": {
+                "volume": 1,
+                "is_muted": false,
+                "duration": 1306.0826749999997,
+                "stream_id": 1,
+                "started_at": 0.013840000000054715
+            }
+        },
+        {
+            "target": "Main player",
+            "data": {
+                "tabs": [
+                    {
+                        "type": "code_mirror",
+                        "label": "Code Mirror"
+                    },
+                    {
+                        "type": "xterm",
+                        "label": "XTerm",
+                        "is_activated": true
+                    }
+                ]
+            }
+        },
+        {
+            "target": "Main player:tab[0]",
+            "data": {
+                "value": "",
+                "cursor": {
+                    "position": {
+                        "line": 0,
+                        "ch": 0,
+                        "sticky": null
+                    },
+                    "selections": [
+                        {
+                            "anchor": {
+                                "line": 0,
+                                "ch": 0,
+                                "sticky": null
+                            },
+                            "head": {
+                                "line": 0,
+                                "ch": 0,
+                                "sticky": null
+                            }
+                        }
+                    ]
+                },
+                "scroll_position": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "target": "Main player:tab[1]",
+            "data": {
+                "state": {
+                    "cursor": {
+                        "pos": {
+                            "x": 30,
+                            "y": 8
+                        },
+                        "attr": {
+                            "fg": 0,
+                            "bg": 0
+                        },
+                        "state": 1
+                    },
+                    "buffers": {
+                        "alt": {
+                            "buffer": "\u001b[96;48;5;242m  \u001b[37;48;5;234m  8 \u001b[38;5;255;49m \u001b[39m                  \u001b[38;5;125m mdCo\u001b[48;5;234mn\u001b[49mtent\u001b[94m.\u001b[38;5;111mchat-content\u001b[38;5;255m \u001b[38;5;209m>\u001b[39m                                   \u001b[38;5;123;48;5;234m \u001b[39;49m              \r\n\u001b[96;48;5;242m  \u001b[37;48;5;234m  7 \u001b[38;5;255;49m \u001b[39m                      \u001b[38;5;125m \u001b[48;5;234mv\u001b[49mideoInput\u001b[94m.\u001b[38;5;111mmd-block\u001b[38;5;40m[\u001b[39m                                   \u001b[38;5;123;48;5;234m \u001b[39;49m              \r\n\u001b[96;48;5;242m  \u001b[37;48;5;234m  6 \u001b[38;5;255;49m \u001b[39m                       \u001b[38;5;255;48;5;234m \u001b[39;49m   \u001b[38;5;255monReady\u001b[39m        \u001b[34m=\u001b[38;5;255m \u001b[38;5;208m\"get_recorder_node()\"\u001b[39m             \u001b[38;5;123;48;5;234m \u001b[39;49m              \r\n\u001b[96;48;5;242m  \u001b[37;48;5;234m  5 \u001b[38;5;255;49m \u001b[39m                       \u001b[38;5;255;48;5;234m \u001b[39;49m   \u001b[38;5;255mmonitoringName \u001b[34m=\u001b[38;5;255m \u001b[38;5;208m\"Video chat\"\u001b[39m                      \u001b[38;5;123;48;5;234m \u001b[39;49m              \r\n\u001b[96;48;5;242m  \u001b[37;48;5;234m  4 \u001b[38;5;255;49m \u001b[39m                       \u001b[38;5;40;48;5;234m]\u001b[38;5;255;49m \u001b[38;5;209m+\u001b[39m                                                    \u001b[38;5;123;48;5;234m \u001b[39;49m              \r\n\u001b[96;48;5;242m  \u001b[37;48;5;234m  3 \u001b[38;5;255;49m \u001b[39m                      \u001b[38;5;125m \u001b[48;5;234ma\u001b[49mudioInput\u001b[94m.\u001b[38;5;111mmd-block\u001b[30;45m[\u001b[39;49m                                   \u001b[38;5;123;48;5;234m \u001b[39;49m              \r\n\u001b[96;48;5;242m  \u001b[37;48;5;234m  2 \u001b[38;5;255;49m \u001b[39m                       \u001b[38;5;255;48;5;234m \u001b[39;49m   \u001b[38;5;167mstyle          = \"\u001b[38;5;113mmargin-top\u001b[38;5;167m: \u001b[38;5;68m16px\u001b[38;5;167m;\"\u001b[39m               \u001b[38;5;123;48;5;234m \u001b[39;49m              \r\n\u001b[96;48;5;242m  \u001b[37;48;5;234m  1 \u001b[38;5;255;49m \u001b[39m                       \u001b[38;5;255;48;5;234m \u001b[39;49m   \u001b[38;5;255mmonitoringName \u001b[34m=\u001b[38;5;255m \u001b[38;5;208m\"Com channel\"\u001b[39m                     \u001b[38;5;123;48;5;234m \u001b[39;49m              \r\n\u001b[96;48;5;242m  \u001b[1;93;48;5;55m170 \u001b[22;38;5;255;49m \u001b[39m                       \u001b[30;45m]\u001b[39;49m                                                      \u001b[38;5;123;48;5;234m \u001b[39;49m              \r\n\u001b[96;48;5;242m  \u001b[37;48;5;234m  1 \u001b[38;5;255;49m    `\u001b[31m,\u001b[39m                  \u001b[38;5;255;48;5;234m \u001b[39;49m                                                      \u001b[38;5;123;48;5;234m \u001b[39;49m              \r\n\u001b[96;48;5;242m  \u001b[37;48;5;234m  2 \u001b[38;5;255;49m \u001b[39m                       \u001b[38;5;255;48;5;234m \u001b[39;49m                                                      \u001b[38;5;123;48;5;234m \u001b[39;49m              \r\n\u001b[96;48;5;242m  \u001b[37;48;5;234m  3 \u001b[38;5;255;49m    controller : \u001b[38;5;207m{\u001b[39m      \u001b[38;5;255;48;5;234m \u001b[39;49m                                                      \u001b[38;5;123;48;5;234m \u001b[39;49m              \r\n\u001b[96;48;5;242m  \u001b[37;48;5;234m  4 \u001b[38;5;255;49m \u001b[39m       \u001b[38;5;255mon_init \u001b[38;5;222m(\u001b[38;5;255m$elemen\u001b[48;5;234mt\u001b[38;5;222;49m)\u001b[38;5;255m \u001b[38;5;207m{\u001b[39m                                                   \u001b[38;5;123;48;5;234m \u001b[39;49m              \r\n\u001b[96;48;5;242m  \u001b[37;48;5;234m  5 \u001b[38;5;255;49m \u001b[39m           \u001b[38;5;118mthis\u001b[34m.\u001b[38;5;255m$elemen\u001b[48;5;234mt\u001b[49m = $element;\u001b[39m                                          \u001b[38;5;123;48;5;234m \u001b[39;49m              \r\n\u001b[96;48;5;242m  \u001b[37;48;5;234m  6 \u001b[38;5;255;49m \u001b[39m           \u001b[38;5;118mthis\u001b[34m.\u001b[38;5;255mmessage\u001b[48;5;234ms\u001b[49m = \u001b[38;5;207m[]\u001b[38;5;255m;\u001b[39m                                                \u001b[38;5;123;48;5;234m \u001b[39;49m              \r\n\u001b[96;48;5;242m  \u001b[37;48;5;234m  7 \u001b[38;5;255;49m \u001b[39m                       \u001b[38;5;255;48;5;234m \u001b[39;49m                                                      \u001b[38;5;123;48;5;234m \u001b[39;49m              \r\n\u001b[96;48;5;242m  \u001b[37;48;5;234m  8 \u001b[38;5;255;49m \u001b[39m           \u001b[38;5;255m$element\u001b[34m.\u001b[38;5;255mon\u001b[38;5;222m(\u001b[38;5;208;48;5;234m\"\u001b[49mrenderable\"\u001b[31m,\u001b[38;5;255m \u001b[38;5;222m()\u001b[38;5;255m => \u001b[38;5;207m{\u001b[39m                                  \u001b[38;5;123;48;5;234m \u001b[39;49m              \r\n\u001b[96;48;5;242m  \u001b[37;48;5;234m  9 \u001b[38;5;255;49m \u001b[39m               \u001b[36mconst\u001b[38;5;255m \u001b[38;5;207m{\u001b[38;5;255m \u001b[48;5;234mm\u001b[49md_tabs = \u001b[38;5;207m{\u001b[38;5;255m $tabs : \u001b[38;5;207m[]\u001b[38;5;255m \u001b[38;5;207m}\u001b[38;5;255m \u001b[38;5;207m}\u001b[38;5;255m = \u001b[38;5;118mthis\u001b[38;5;255m;\u001b[39m                     \u001b[38;5;123;48;5;234m \u001b[39;49m              \r\n\u001b[96;48;5;242m  \u001b[37;48;5;234m 10 \u001b[38;5;255;49m \u001b[39m               \u001b[38;5;173mif\u001b[38;5;255m \u001b[38;5;222m(\u001b[38;5;255mmd_t\u001b[48;5;234ma\u001b[49mbs\u001b[34m.\u001b[38;5;255m$tabs\u001b[38;5;207m[\u001b[36m1\u001b[38;5;207m]\u001b[38;5;222m)\u001b[38;5;255m \u001b[38;5;207m{\u001b[39m                                        \u001b[38;5;123;48;5;234m \u001b[39;49m              \r\n\u001b[96;48;5;242m  \u001b[37;48;5;234m 11 \u001b[38;5;255;49m \u001b[39m                   \u001b[38;5;255mmd_t\u001b[48;5;234ma\u001b[49mbs\u001b[34m.\u001b[38;5;255m$tabs\u001b[38;5;207m[\u001b[36m1\u001b[38;5;207m]\u001b[34m.\u001b[38;5;255mactive\u001b[38;5;222m()\u001b[38;5;255m;\u001b[39m                                 \u001b[38;5;123;48;5;234m \u001b[39;49m              \r\n\u001b[96;48;5;242m  \u001b[37;48;5;234m 12 \u001b[38;5;255;49m \u001b[39m               \u001b[38;5;207m}\u001b[39m       \u001b[38;5;255;48;5;234m \u001b[39;49m                                                      \u001b[38;5;123;48;5;234m \u001b[39;49m              \r\n\u001b[38;5;17;48;5;190m \u001b[1mNORMAL\u001b[22m \u001b[38;5;190;48;5;238m\u001b[38;5;255m  master \u001b[38;5;238;48;5;53m\u001b[38;5;255m <t.js[+]  \u001b[38;5;234m\u001b[38;5;85;48;5;234m javascript \u001b[38;5;238m\u001b[38;5;255;48;5;238m utf-8[unix] \u001b[38;5;190m\u001b[38;5;17;48;5;190m  81% \u001b[1m 170\u001b[22m: 25  \u001b[38;5;166m\u001b[38;5;232;48;5;166m [Syntax: line:0 (2)]  \r\n\u001b[39;49m                                                                                                    \r\n\u001b[38;5;160;48;5;16mjeefo\u001b[37m on \u001b[32mjeefo-macbook.pro \u001b[37m| \u001b[38;5;127mtmux current session name \u001b[38;5;202m[0]\u001b[37m                               \u001b[1;38;5;26m1:public*Z\u001b[22;37m "
+                        },
+                        "normal": {
+                            "buffer": "\u001b[32mツ \u001b[39min \u001b[34m~/projects/my_own_secret_project\u001b[32m git (master) ⚡\u001b[39m                                               \r\n\u001b[1;35m➜ \u001b[22;39mtmux_local ls                                                                                     \r\n0: 1 windows (created Sat Oct 26 11:10:13 2019) [143x37] (attached)                                 \r\n1: 1 windows (created Sat Oct 26 11:11:24 2019) [143x37] (attached)                                 \r\n2: 1 windows (created Sat Oct 26 11:35:13 2019) [100x23]                                            \r\n\u001b[32mツ \u001b[39min \u001b[34m~/projects/my_own_secret_project\u001b[32m git (master) ⚡\u001b[39m                                               \r\n\u001b[1;35m➜ \u001b[22;39mtmux_local a -t 2                                                                                 \r\n[exited]                                                                                            \r\n\u001b[32mツ \u001b[39min \u001b[34m~/projects/my_own_secret_project\u001b[32m git (master) ⚡\u001b[39m                                               \r\n\u001b[1;35m➜ \u001b[22;39mtmux_local ls                                                                                     \r\n0: 1 windows (created Sat Oct 26 11:10:13 2019) [143x37] (attached)                                 \r\n1: 1 windows (created Sat Oct 26 11:11:24 2019) [143x37] (attached)                                 \r\n\u001b[32mツ \u001b[39min \u001b[34m~/projects/my_own_secret_project\u001b[32m git (master) ⚡\u001b[39m                                               \r\n\u001b[1;35m➜ \u001b[22;39mtmux_local a -t 0                                                                                 \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    ",
+                            "saved_cursor": {
+                                "pos": {
+                                    "x": 0,
+                                    "y": 14
+                                },
+                                "attr": {
+                                    "fg": 0,
+                                    "bg": 0
+                                }
+                            }
+                        },
+                        "active_buffer": "alt"
+                    }
+                },
+                "options": {
+                    "rows": 24,
+                    "cols": 100,
+                    "termName": "xterm-256color",
+                    "fontSize": 16,
+                    "fontFamily": "MonacoB, Inconsolata",
+                    "fontWeight": "bold",
+                    "cursorStyle": "block",
+                    "drawBoldTextInBrightColors": true,
+                    "tabStopWidth": 4,
+                    "screenKeys": true,
+                    "macOptionIsMeta": true,
+                    "macOptionClickForcesSelection": true
+                }
+            }
+        }
+    ],
+    "timestamp_offset": 1306.09647
+}

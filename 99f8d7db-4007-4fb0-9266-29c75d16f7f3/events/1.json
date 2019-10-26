@@ -1,0 +1,6 @@
+{
+    "id": 1,
+    "events": "[{\"type\":\"start_stream_record\",\"target\":\"Com channel\",\"data\":{\"target\":\"Com channel\",\"session_id\":\"99f8d7db-4007-4fb0-9266-29c75d16f7f3\",\"stream_id\":1,\"mime\":\"audio/webm; codecs=opus\"},\"delta_time\":0.014270000000105938},{\"type\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"dG11eF9sb2NhbCA=\",\"delta_time\":2.3463699999997334}]",
+    "timestamp_offset": 0,
+    "duration": 3.000915000000066
+}

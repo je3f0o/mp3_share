@@ -2,5 +2,9 @@
     {
         "id"   : "566710ea-e437-4fc6-8f7a-f7fac48e78b7",
         "name" : "Demo record with 3 media tracks"
+    },
+    {
+        "id"   : "99f8d7db-4007-4fb0-9266-29c75d16f7f3",
+        "name" : "Refactering MediaInput Components"
     }
 ]
