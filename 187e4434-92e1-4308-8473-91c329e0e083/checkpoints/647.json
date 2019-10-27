@@ -1,0 +1,114 @@
+{
+    "id": 647,
+    "events": [
+        {
+            "target": "Com channel",
+            "data": {
+                "volume": 1,
+                "is_muted": false,
+                "duration": 2175.2536449999966,
+                "stream_id": 1,
+                "started_at": 0.005625000001600711
+            }
+        },
+        {
+            "target": "Main player",
+            "data": {
+                "tabs": [
+                    {
+                        "type": "code_mirror",
+                        "label": "Code Mirror"
+                    },
+                    {
+                        "type": "xterm",
+                        "label": "XTerm",
+                        "is_activated": true
+                    }
+                ]
+            }
+        },
+        {
+            "target": "Main player:tab[0]",
+            "data": {
+                "value": "",
+                "cursor": {
+                    "position": {
+                        "line": 0,
+                        "ch": 0,
+                        "sticky": null
+                    },
+                    "selections": [
+                        {
+                            "anchor": {
+                                "line": 0,
+                                "ch": 0,
+                                "sticky": null
+                            },
+                            "head": {
+                                "line": 0,
+                                "ch": 0,
+                                "sticky": null
+                            }
+                        }
+                    ]
+                },
+                "scroll_position": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "target": "Main player:tab[1]",
+            "data": {
+                "state": {
+                    "cursor": {
+                        "pos": {
+                            "x": 23,
+                            "y": 22
+                        },
+                        "attr": {
+                            "fg": 0,
+                            "bg": 0
+                        },
+                        "state": 1
+                    },
+                    "buffers": {
+                        "alt": {
+                            "buffer": "-rw-r--r--   1 jeefo  staff   1.5K Oct 24 12:37 i_session.js                                        \r\n-rw-r--r--   1 jeefo  staff   1.7K Oct 16 16:31 main.js                                             \r\n-rw-r--r--   1 jeefo  staff   964B Sep 15 07:01 mstime.js                                           \r\n-rw-r--r--   1 jeefo  staff   6.3K Oct  4 02:07 peer.js                                             \r\ndrwxr-xr-x  11 jeefo  staff   374B Oct 27 05:43 \u001b[1;34mservices\u001b[22;39m                                            \r\n-rw-r--r--   1 jeefo  staff   9.8K Oct 26 09:19 session_buffered.js                                 \r\n-rw-r--r--   1 jeefo  staff   7.8K Oct 26 12:47 session_player.js                                   \r\n-rw-r--r--   1 jeefo  staff    12K Oct 26 07:29 session_recorder.js                                 \r\n-rw-r--r--   1 jeefo  staff    11K Sep 17 05:52 shader_options.js                                   \r\n-rw-r--r--   1 jeefo  staff   1.2K Sep 18 08:26 todo_list.md                                        \r\n-rw-r--r--   1 jeefo  staff    11K Sep 11 22:37 tube.fs                                             \r\n-rw-r--r--   1 jeefo  staff   2.9K Oct 27 05:49 user_media.js                                       \r\n-rw-r--r--   1 jeefo  staff   869B Oct 24 05:45 uuid_v4.js                                          \r\n-rw-r--r--   1 jeefo  staff   1.2K Oct 16 08:08 xterm_options.js                                    \r\n\u001b[32mツ \u001b[39min \u001b[34m~/projects/my_own_secret_project/front_end\u001b[32m git (master) ⚡\u001b[39m                                     \r\n\u001b[1;35m➜ \u001b[22;39mmv user_media.js services/                                                                        \r\n\u001b[32mツ \u001b[39min \u001b[34m~/projects/my_own_secret_project/front_end\u001b[32m git (master) ⚡\u001b[39m                                     \r\n\u001b[1;35m➜ \u001b[22;39mfg                                                                                                \r\nvim components/chat_component.js                                                                    \r\n                                                                                                    \r\n[1]+  Stopped                 vim components/chat_component.js                                      \r\n\u001b[32mツ \u001b[39min \u001b[34m~/projects/my_own_secret_project/front_end\u001b[32m git (master) ⚡\u001b[39m                                     \r\n\u001b[1;35m➜ \u001b[22;39m# bi garah heregtei b                                                                             \r\n\u001b[38;5;160;48;5;16mjeefo\u001b[37m on \u001b[32mjeefo-macbook.pro \u001b[37m| \u001b[38;5;127mtmux current session name \u001b[38;5;202m[0]\u001b[37m                            \u001b[1;38;5;26m1:front_end*Z\u001b[22;37m "
+                        },
+                        "normal": {
+                            "buffer": "\u001b[32mツ \u001b[39min \u001b[34m~/projects/my_own_secret_project\u001b[32m git (master) ⚡\u001b[39m                                               \r\n\u001b[1;35m➜ \u001b[22;39mtmux_local a -t 0                                                                                 \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    ",
+                            "saved_cursor": {
+                                "pos": {
+                                    "x": 0,
+                                    "y": 2
+                                },
+                                "attr": {
+                                    "fg": 0,
+                                    "bg": 0
+                                }
+                            }
+                        },
+                        "active_buffer": "alt"
+                    }
+                },
+                "options": {
+                    "rows": 24,
+                    "cols": 100,
+                    "termName": "xterm-256color",
+                    "fontSize": 16,
+                    "fontFamily": "MonacoB, Inconsolata",
+                    "fontWeight": "bold",
+                    "cursorStyle": "block",
+                    "drawBoldTextInBrightColors": true,
+                    "tabStopWidth": 4,
+                    "screenKeys": true,
+                    "macOptionIsMeta": true,
+                    "macOptionClickForcesSelection": true
+                }
+            }
+        }
+    ],
+    "timestamp_offset": 2175.259215000002
+}

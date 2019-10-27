@@ -1,0 +1,114 @@
+{
+    "id": 439,
+    "events": [
+        {
+            "target": "Com channel",
+            "data": {
+                "volume": 1,
+                "is_muted": false,
+                "duration": 1397.2594099999988,
+                "stream_id": 1,
+                "started_at": 0.005625000001600711
+            }
+        },
+        {
+            "target": "Main player",
+            "data": {
+                "tabs": [
+                    {
+                        "type": "code_mirror",
+                        "label": "Code Mirror"
+                    },
+                    {
+                        "type": "xterm",
+                        "label": "XTerm",
+                        "is_activated": true
+                    }
+                ]
+            }
+        },
+        {
+            "target": "Main player:tab[0]",
+            "data": {
+                "value": "",
+                "cursor": {
+                    "position": {
+                        "line": 0,
+                        "ch": 0,
+                        "sticky": null
+                    },
+                    "selections": [
+                        {
+                            "anchor": {
+                                "line": 0,
+                                "ch": 0,
+                                "sticky": null
+                            },
+                            "head": {
+                                "line": 0,
+                                "ch": 0,
+                                "sticky": null
+                            }
+                        }
+                    ]
+                },
+                "scroll_position": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "target": "Main player:tab[1]",
+            "data": {
+                "state": {
+                    "cursor": {
+                        "pos": {
+                            "x": 5,
+                            "y": 13
+                        },
+                        "attr": {
+                            "fg": 33554687,
+                            "bg": 33554666
+                        },
+                        "state": 1
+                    },
+                    "buffers": {
+                        "alt": {
+                            "buffer": "\u001b[1;93;48;5;55m363 \u001b[22;39;49m        \u001b[38;5;196m// Step : Clean old Stream\u001b[39m                                             \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m  1 \u001b[38;5;255m \u001b[39;49m       \u001b[38;5;118mthis\u001b[34m.\u001b[38;5;255mclean\u001b[38;5;222m()\u001b[38;5;255m;\u001b[39m                                                          \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m  2 \u001b[38;5;255m \u001b[39;49m                                                                              \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m  3 \u001b[38;5;255m \u001b[39;49m       \u001b[38;5;173mif\u001b[38;5;255m \u001b[38;5;222m(\u001b[38;5;255mdevice_id === \u001b[38;5;208m\"(No video)\"\u001b[38;5;222m)\u001b[38;5;255m \u001b[38;5;207m{\u001b[39m                                      \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m  4 \u001b[38;5;255m \u001b[39;49m           \u001b[38;5;118mthis\u001b[34m.\u001b[38;5;255mupdate_device_info\u001b[38;5;222m()\u001b[38;5;255m;\u001b[39m                                         \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m  5 \u001b[38;5;255m \u001b[39;49m       \u001b[38;5;207m}\u001b[38;5;255m \u001b[38;5;173melse\u001b[38;5;255m \u001b[38;5;207m{\u001b[39m                                                               \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m  6 \u001b[38;5;255m \u001b[39;49m           \u001b[38;5;196m// Step : Create new Stream\u001b[39m                                        \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m  7 \u001b[38;5;255m \u001b[39;49m           \u001b[36mconst\u001b[38;5;255m \u001b[38;5;207m{\u001b[38;5;255m constraints \u001b[38;5;207m}\u001b[38;5;255m = \u001b[38;5;118mthis\u001b[34m.\u001b[38;5;255moptions;\u001b[39m                              \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m  8 \u001b[38;5;255m \u001b[39;49m           \u001b[38;5;255mconstraints\u001b[34m.\u001b[38;5;255mvideo\u001b[34m.\u001b[38;5;255mdeviceId = device_id;\u001b[39m                            \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m  9 \u001b[38;5;255m \u001b[39;49m           \u001b[38;5;118mthis\u001b[34m.\u001b[38;5;255;48;5;17mvideo_stream\u001b[49m = \u001b[36mawait\u001b[38;5;255m user_media\u001b[34m.\u001b[38;5;255mget_stream\u001b[38;5;222m(\u001b[38;5;255mconstraints\u001b[38;5;222m)\u001b[38;5;255m;      \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m 10 \u001b[38;5;255m \u001b[39;49m           \u001b[36mconst\u001b[38;5;255m video = create_video\u001b[38;5;222m(\u001b[38;5;118mthis\u001b[34m.\u001b[38;5;255;48;5;17mvideo_stream\u001b[38;5;222;49m)\u001b[38;5;255m;\u001b[39m                     \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m 11 \u001b[38;5;255m \u001b[39;49m           \u001b[38;5;255mvideo\u001b[34m.\u001b[38;5;255mautoplay = \u001b[38;5;68mtrue\u001b[38;5;255m;\u001b[39m                                             \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m 12 \u001b[38;5;255m \u001b[39;49m           \u001b[38;5;118mthis\u001b[34m.\u001b[38;5;255m$media\u001b[34m.\u001b[38;5;255mreplace\u001b[38;5;222m(\u001b[38;5;255mvideo\u001b[38;5;222m)\u001b[38;5;255m;\u001b[39m                                        \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m 13 \u001b[38;5;255m \u001b[39;49m                                                                              \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m 13 \u001b[38;5;255m \u001b[39;49m           \u001b[36mconst\u001b[38;5;255m device_info = \u001b[38;5;118mthis\u001b[34m.\u001b[38;5;255mvideo_devices\u001b[34m.\u001b[38;5;255mfind\u001b[38;5;222m(\u001b[38;5;255md => \u001b[38;5;207m{\u001b[39m                 \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m 14 \u001b[38;5;255m \u001b[39;49m               \u001b[38;5;173mreturn\u001b[38;5;255m d\u001b[34m.\u001b[38;5;255mdeviceId === device_id;\u001b[39m                               \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m 15 \u001b[38;5;255m \u001b[39;49m           \u001b[38;5;207m}\u001b[38;5;222m)\u001b[38;5;255m;\u001b[39m                                                                \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m 16 \u001b[38;5;255m \u001b[39;49m           \u001b[38;5;118mthis\u001b[34m.\u001b[38;5;255mupdate_device_info\u001b[38;5;222m(\u001b[38;5;255mdevice_info\u001b[38;5;222m)\u001b[38;5;255m;\u001b[39m                              \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m 17 \u001b[38;5;255m \u001b[39;49m                                                                              \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m 18 \u001b[38;5;255m \u001b[39;49m           \u001b[38;5;173mif\u001b[38;5;255m \u001b[38;5;222m(\u001b[38;5;118mthis\u001b[34m.\u001b[38;5;255mrecorder_stream\u001b[38;5;222m)\u001b[38;5;255m \u001b[38;5;207m{\u001b[39m                                        \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m 19 \u001b[38;5;255m \u001b[39;49m               \u001b[36mconst\u001b[38;5;255m video_track = \u001b[38;5;118mthis\u001b[34m.\u001b[38;5;255;48;5;17mvideo_stream\u001b[34;49m.\u001b[38;5;255mgetVideoTracks\u001b[38;5;222m()\u001b[38;5;207m[\u001b[36m0\u001b[38;5;207m]\u001b[38;5;255m;     \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[38;5;17;48;5;190m \u001b[1mNORMAL\u001b[22m \u001b[38;5;190;48;5;238m\u001b[38;5;255m  master \u001b[38;5;238;48;5;53m\u001b[38;5;255m <t.js[+]  \u001b[38;5;234m\u001b[38;5;85;48;5;234m javascript \u001b[38;5;238m\u001b[38;5;255;48;5;238m utf-8[unix] \u001b[38;5;190m\u001b[38;5;17;48;5;190m  85% \u001b[1m 364\u001b[22m:  1  \u001b[38;5;166m\u001b[38;5;232;48;5;166m [Syntax: line:0 (1)]  \r\n\u001b[39;49m                                                                                                    \r\n\u001b[38;5;160;48;5;16mjeefo\u001b[37m on \u001b[32mjeefo-macbook.pro \u001b[37m| \u001b[38;5;127mtmux current session name \u001b[38;5;202m[0]\u001b[37m                             \u001b[1;38;5;26m1:sessions*Z\u001b[22;37m "
+                        },
+                        "normal": {
+                            "buffer": "\u001b[32mツ \u001b[39min \u001b[34m~/projects/my_own_secret_project\u001b[32m git (master) ⚡\u001b[39m                                               \r\n\u001b[1;35m➜ \u001b[22;39mtmux_local a -t 0                                                                                 \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    ",
+                            "saved_cursor": {
+                                "pos": {
+                                    "x": 0,
+                                    "y": 2
+                                },
+                                "attr": {
+                                    "fg": 0,
+                                    "bg": 0
+                                }
+                            }
+                        },
+                        "active_buffer": "alt"
+                    }
+                },
+                "options": {
+                    "rows": 24,
+                    "cols": 100,
+                    "termName": "xterm-256color",
+                    "fontSize": 16,
+                    "fontFamily": "MonacoB, Inconsolata",
+                    "fontWeight": "bold",
+                    "cursorStyle": "block",
+                    "drawBoldTextInBrightColors": true,
+                    "tabStopWidth": 4,
+                    "screenKeys": true,
+                    "macOptionIsMeta": true,
+                    "macOptionClickForcesSelection": true
+                }
+            }
+        }
+    ],
+    "timestamp_offset": 1397.2649700000002
+}
