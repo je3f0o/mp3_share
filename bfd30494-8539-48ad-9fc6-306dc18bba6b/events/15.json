@@ -1,0 +1,6 @@
+{
+    "id": 15,
+    "events": "[{\"type\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"bw==\",\"delta_time\":43.77283500000019},{\"type\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"bw==\",\"delta_time\":43.916215000000086},{\"type\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"DQpvbw0K\",\"delta_time\":44.204764999999895}]",
+    "timestamp_offset": 42.0787350000001,
+    "duration": 3.00509999999986
+}

@@ -1,0 +1,114 @@
+{
+    "id": 241,
+    "events": [
+        {
+            "target": "Com channel",
+            "data": {
+                "volume": 1,
+                "is_muted": false,
+                "duration": 721.4856000000001,
+                "stream_id": 1,
+                "started_at": 0.010760000000009312
+            }
+        },
+        {
+            "target": "Main player",
+            "data": {
+                "tabs": [
+                    {
+                        "type": "code_mirror",
+                        "label": "Code Mirror"
+                    },
+                    {
+                        "type": "xterm",
+                        "label": "XTerm",
+                        "is_activated": true
+                    }
+                ]
+            }
+        },
+        {
+            "target": "Main player:tab[0]",
+            "data": {
+                "value": "",
+                "cursor": {
+                    "position": {
+                        "line": 0,
+                        "ch": 0,
+                        "sticky": null
+                    },
+                    "selections": [
+                        {
+                            "anchor": {
+                                "line": 0,
+                                "ch": 0,
+                                "sticky": null
+                            },
+                            "head": {
+                                "line": 0,
+                                "ch": 0,
+                                "sticky": null
+                            }
+                        }
+                    ]
+                },
+                "scroll_position": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "target": "Main player:tab[1]",
+            "data": {
+                "state": {
+                    "cursor": {
+                        "pos": {
+                            "x": 72,
+                            "y": 4
+                        },
+                        "attr": {
+                            "fg": 0,
+                            "bg": 0
+                        },
+                        "state": 1
+                    },
+                    "buffers": {
+                        "alt": {
+                            "buffer": "\u001b[37;48;5;234m  4 \u001b[38;5;231;49m{\u001b[38;5;255m                                                                   \u001b[48;5;234m \u001b[49m          \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m  3 \u001b[38;5;255;49m  \"\u001b[38;5;71mprivate\u001b[38;5;255m\": \u001b[38;5;68mtrue\u001b[38;5;255m,                                                  \u001b[48;5;234m \u001b[49m          \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m  2 \u001b[38;5;255;49m  \"\u001b[38;5;71mname\u001b[38;5;255m\": \"\u001b[38;5;208mtoy_nearul_network\u001b[38;5;255m\",                                     \u001b[48;5;234m \u001b[49m          \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m  1 \u001b[38;5;255;49m  \"\u001b[38;5;71mversion\u001b[38;5;255m\": \"\u001b[38;5;208m0.0.1\u001b[38;5;255m\",                                               \u001b[48;5;234m \u001b[39;49m          \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[1;93;48;5;55m5   \u001b[22;38;5;255;48;5;234m  \"\u001b[38;5;71mdescription\u001b[38;5;255m\": \"\u001b[38;5;208mjeefo-ийн тоглоомон хиймэл оюун ухаан. Open Source\u001b[38;5;255m\",         \u001b[38;5;123m \u001b[38;5;255m                \r\n\u001b[37m  1 \u001b[38;5;255;49m  \"\u001b[38;5;71mmain\u001b[38;5;255m\": \"\u001b[38;5;208mindex.js\u001b[38;5;255m\",         \u001b[39m \u001b[38;5;255m   \u001b[39m  \u001b[38;5;255m                                \u001b[48;5;234m \u001b[39;49m          \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m  2 \u001b[38;5;255;49m  \"\u001b[38;5;71mscripts\u001b[38;5;255m\": \u001b[38;5;231m{\u001b[38;5;255m                                                      \u001b[48;5;234m \u001b[39;49m          \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m  3 \u001b[38;5;255;49m    \"\u001b[38;5;71mtest\u001b[38;5;255m\": \"\u001b[38;5;208mecho \u001b[38;5;231m\\\"\u001b[38;5;208mТест програмыг нь бичээгүй байгаа.\u001b[38;5;231m\\\"\u001b[38;5;255m\"           \u001b[48;5;234m \u001b[39;49m          \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m  4 \u001b[38;5;255;49m  \u001b[38;5;231m}\u001b[38;5;255m,                                                                \u001b[48;5;234m \u001b[39;49m          \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m  5 \u001b[38;5;255;49m  \"\u001b[38;5;71mauthor\u001b[38;5;255m\": \"\u001b[38;5;208mje3f0o, jeefo, Батхишиг\u001b[38;5;255m\",                              \u001b[48;5;234m \u001b[39;49m          \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m  6 \u001b[38;5;255;49m  \"\u001b[38;5;71mlicense\u001b[38;5;255m\": \"\u001b[38;5;208mMIT\u001b[38;5;255m\"            \u001b[39m \u001b[38;5;255m   \u001b[39m  \u001b[38;5;255m                                \u001b[48;5;234m \u001b[39;49m          \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[37;48;5;234m  7 \u001b[38;5;231;49m}\u001b[38;5;255m                                                                   \u001b[48;5;234m \u001b[49m          \u001b[38;5;123;48;5;234m \u001b[39;49m                \r\n\u001b[38;5;240m~                                                                                                   \r\n~                                                                                                   \r\n~                                                                                                   \r\n~                                                                                                   \r\n~                                                                                                   \r\n~                                                                                                   \r\n~                                                                                                   \r\n~                                                                                                   \r\n~                                                                                                   \r\n\u001b[38;5;17;48;5;45m \u001b[1mINSERT\u001b[22m \u001b[38;5;45;48;5;27m\u001b[38;5;27;48;5;53m\u001b[38;5;255m package.json[+]                                   \u001b[38;5;17m\u001b[97;48;5;17m json \u001b[38;5;27m\u001b[38;5;255;48;5;27m utf-8[unix] \u001b[38;5;45m\u001b[38;5;17;48;5;45m  41% \u001b[1m   5\u001b[22m: 69  \r\n\u001b[1;38;5;255;49m-- INSERT --\u001b[22;39m                                                                                        \r\n\u001b[38;5;160;48;5;16mjeefo\u001b[37m on \u001b[32mjeefo-macbook.pro \u001b[37m| \u001b[38;5;127mtmux current session name \u001b[38;5;202m[0]\u001b[37m                   \u001b[1;38;5;26m1:toy_neural_network*Z\u001b[22;37m "
+                        },
+                        "normal": {
+                            "buffer": "\u001b[32mツ \u001b[39min \u001b[34m~/projects/my_own_secret_project\u001b[32m git (master) ☁\u001b[39m                                               \r\n\u001b[1;35m➜ \u001b[22;39mtmux_local a -t 0                                                                                 \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    ",
+                            "saved_cursor": {
+                                "pos": {
+                                    "x": 0,
+                                    "y": 2
+                                },
+                                "attr": {
+                                    "fg": 0,
+                                    "bg": 0
+                                }
+                            }
+                        },
+                        "active_buffer": "alt"
+                    }
+                },
+                "options": {
+                    "rows": 24,
+                    "cols": 100,
+                    "termName": "xterm-256color",
+                    "fontSize": 16,
+                    "fontFamily": "MonacoB, Inconsolata",
+                    "fontWeight": "bold",
+                    "cursorStyle": "bar",
+                    "drawBoldTextInBrightColors": true,
+                    "tabStopWidth": 4,
+                    "screenKeys": true,
+                    "macOptionIsMeta": true,
+                    "macOptionClickForcesSelection": true
+                }
+            }
+        }
+    ],
+    "timestamp_offset": 721.4963099999998
+}

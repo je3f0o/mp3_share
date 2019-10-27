@@ -1,0 +1,6 @@
+{
+    "id": 192,
+    "events": "[{\"type\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"MA==\",\"delta_time\":575.9189449999998},{\"type\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"Lg==\",\"delta_time\":576.3667999999998},{\"type\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"MA==\",\"delta_time\":576.6327550000001},{\"type\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"Lg==\",\"delta_time\":576.816335}]",
+    "timestamp_offset": 574.2227199999998,
+    "duration": 3.0049499999999534
+}

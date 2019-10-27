@@ -1,0 +1,114 @@
+{
+    "id": 136,
+    "events": [
+        {
+            "target": "Com channel",
+            "data": {
+                "volume": 1,
+                "is_muted": false,
+                "duration": 405.86308499999996,
+                "stream_id": 1,
+                "started_at": 0.010760000000009312
+            }
+        },
+        {
+            "target": "Main player",
+            "data": {
+                "tabs": [
+                    {
+                        "type": "code_mirror",
+                        "label": "Code Mirror"
+                    },
+                    {
+                        "type": "xterm",
+                        "label": "XTerm",
+                        "is_activated": true
+                    }
+                ]
+            }
+        },
+        {
+            "target": "Main player:tab[0]",
+            "data": {
+                "value": "",
+                "cursor": {
+                    "position": {
+                        "line": 0,
+                        "ch": 0,
+                        "sticky": null
+                    },
+                    "selections": [
+                        {
+                            "anchor": {
+                                "line": 0,
+                                "ch": 0,
+                                "sticky": null
+                            },
+                            "head": {
+                                "line": 0,
+                                "ch": 0,
+                                "sticky": null
+                            }
+                        }
+                    ]
+                },
+                "scroll_position": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "target": "Main player:tab[1]",
+            "data": {
+                "state": {
+                    "cursor": {
+                        "pos": {
+                            "x": 59,
+                            "y": 3
+                        },
+                        "attr": {
+                            "fg": 0,
+                            "bg": 0
+                        },
+                        "state": 1
+                    },
+                    "buffers": {
+                        "alt": {
+                            "buffer": "\u001b[1;34mc_sharp\u001b[22;39m                     \u001b[1;34mjeefo\u001b[22;39m                       \u001b[1;34mmysite\u001b[22;39m                                \u001b[30;43m[0/69]\r\n\u001b[1;34;49mchromelab\u001b[22;39m                   \u001b[1;34mjeefo.bkup\u001b[22;39m                  \u001b[1;34mnaahzg\u001b[22;39m                                      \r\n\u001b[1;34mcompiler\u001b[22;39m                    \u001b[1;34mjeefo_assert\u001b[22;39m                \u001b[1;34mng2\u001b[22;39m                                         \r\n\u001b[1;34mcourse\u001b[22;39m                      \u001b[1;34mjeefo_command\u001b[22;39m               \u001b[1;34mnki\u001b[22;39m                                         \r\n\u001b[1;34mcpuminer\u001b[22;39m                    \u001b[1;34mjeefo_core\u001b[22;39m                  \u001b[1;34mnode-jeefo-mysql\u001b[22;39m                            \r\n\u001b[1;34mcreate_sql\u001b[22;39m                  \u001b[1;34mjeefo_framework\u001b[22;39m             \u001b[1;34mnode_addon\u001b[22;39m                                  \r\n\u001b[1;34mcss\u001b[22;39m                         \u001b[1;34mjeefo_javascript_beautifier\u001b[22;39m \u001b[1;34mnode_feature_tester\u001b[22;39m                         \r\n\u001b[1;34mcv\u001b[22;39m                          \u001b[1;34mjeefo_math\u001b[22;39m                  \u001b[1;34mpdf_export\u001b[22;39m                                  \r\n\u001b[1;34md3\u001b[22;39m                          \u001b[1;34mjeefo_module_compiler\u001b[22;39m       \u001b[1;34mreveal\u001b[22;39m                                      \r\n\u001b[1;34mdaaaash\u001b[22;39m                     \u001b[1;34mjeefo_module_compiler.bkup\u001b[22;39m  \u001b[1;34msearch_word\u001b[22;39m                                 \r\n\u001b[1;34mdash.js\u001b[22;39m                     \u001b[1;34mjeefo_modules\u001b[22;39m               \u001b[1;34msessions_share\u001b[22;39m                              \r\n\u001b[1;34mdebug_version\u001b[22;39m               \u001b[1;34mjeefo_ng\u001b[22;39m                    \u001b[1;34mshaiya\u001b[22;39m                                      \r\n\u001b[1;34mdebug_version2\u001b[22;39m              \u001b[1;34mjeefo_parser\u001b[22;39m                \u001b[1;34msoftware_rendering\u001b[22;39m                          \r\n\u001b[1;34mdlib\u001b[22;39m                        \u001b[1;34mjeefo_path\u001b[22;39m                  \u001b[1;34msteam\u001b[22;39m                                       \r\n\u001b[1;34mdo_math\u001b[22;39m                     \u001b[1;34mjeefo_pp\u001b[22;39m                    \u001b[1;34mtesseract-nodejs\u001b[22;39m                            \r\n\u001b[1;34mdo_tool\u001b[22;39m                     \u001b[1;34mjeefo_pp_plugins\u001b[22;39m            \u001b[1;34mtesttttt\u001b[22;39m                                    \r\n\u001b[1;34mdragable\u001b[22;39m                    \u001b[1;34mjeefo_preprocessor\u001b[22;39m          \u001b[1;34mwmckoji\u001b[22;39m                                     \r\n\u001b[1;34mdraw\u001b[22;39m                        \u001b[1;34mjeefo_stream\u001b[22;39m                \u001b[1;34myoutube\u001b[22;39m                                     \r\n\u001b[1;34memacs\u001b[22;39m                       \u001b[1;34mjeefo_test\u001b[22;39m                  \u001b[1;34myoutube-dl\u001b[22;39m                                  \r\n\u001b[1;34mface_recognition\u001b[22;39m            \u001b[1;34mjeefo_tokenizer\u001b[22;39m             \u001b[1;34myoutube_highlight_creator\u001b[22;39m                   \r\nface_recognition.txt        \u001b[1;34mjs\u001b[22;39m                          \u001b[1;34myoutube_upload\u001b[22;39m                              \r\n\u001b[32mツ \u001b[39min \u001b[34m~/projects\u001b[39m                                                                                    \r\n\u001b[1;35m➜ \u001b[22;39m                                                                                                  \r\n\u001b[38;5;160;48;5;16mjeefo\u001b[37m on \u001b[32mjeefo-macbook.pro \u001b[37m| \u001b[38;5;127mtmux current session name \u001b[38;5;202m[0]\u001b[37m                             \u001b[1;38;5;26m1:projects*Z\u001b[22;37m "
+                        },
+                        "normal": {
+                            "buffer": "\u001b[32mツ \u001b[39min \u001b[34m~/projects/my_own_secret_project\u001b[32m git (master) ☁\u001b[39m                                               \r\n\u001b[1;35m➜ \u001b[22;39mtmux_local a -t 0                                                                                 \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    ",
+                            "saved_cursor": {
+                                "pos": {
+                                    "x": 0,
+                                    "y": 2
+                                },
+                                "attr": {
+                                    "fg": 0,
+                                    "bg": 0
+                                }
+                            }
+                        },
+                        "active_buffer": "alt"
+                    }
+                },
+                "options": {
+                    "rows": 24,
+                    "cols": 100,
+                    "termName": "xterm-256color",
+                    "fontSize": 16,
+                    "fontFamily": "MonacoB, Inconsolata",
+                    "fontWeight": "bold",
+                    "cursorStyle": "block",
+                    "drawBoldTextInBrightColors": true,
+                    "tabStopWidth": 4,
+                    "screenKeys": true,
+                    "macOptionIsMeta": true,
+                    "macOptionClickForcesSelection": true
+                }
+            }
+        }
+    ],
+    "timestamp_offset": 405.8737999999998
+}

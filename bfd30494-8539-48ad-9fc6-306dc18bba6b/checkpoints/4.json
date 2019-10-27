@@ -1,0 +1,114 @@
+{
+    "id": 4,
+    "events": [
+        {
+            "target": "Com channel",
+            "data": {
+                "volume": 1,
+                "is_muted": false,
+                "duration": 9.005429999999702,
+                "stream_id": 1,
+                "started_at": 0.010760000000009312
+            }
+        },
+        {
+            "target": "Main player",
+            "data": {
+                "tabs": [
+                    {
+                        "type": "code_mirror",
+                        "label": "Code Mirror"
+                    },
+                    {
+                        "type": "xterm",
+                        "label": "XTerm",
+                        "is_activated": true
+                    }
+                ]
+            }
+        },
+        {
+            "target": "Main player:tab[0]",
+            "data": {
+                "value": "",
+                "cursor": {
+                    "position": {
+                        "line": 0,
+                        "ch": 0,
+                        "sticky": null
+                    },
+                    "selections": [
+                        {
+                            "anchor": {
+                                "line": 0,
+                                "ch": 0,
+                                "sticky": null
+                            },
+                            "head": {
+                                "line": 0,
+                                "ch": 0,
+                                "sticky": null
+                            }
+                        }
+                    ]
+                },
+                "scroll_position": {
+                    "x": 0,
+                    "y": 0
+                }
+            }
+        },
+        {
+            "target": "Main player:tab[1]",
+            "data": {
+                "state": {
+                    "cursor": {
+                        "pos": {
+                            "x": 52,
+                            "y": 10
+                        },
+                        "attr": {
+                            "fg": 0,
+                            "bg": 0
+                        },
+                        "state": 1
+                    },
+                    "buffers": {
+                        "alt": {
+                            "buffer": "\u001b[32mr) ☁\u001b[39m                                             \u001b[32m│\u001b[39mdrwxr-xr-x  6 jeefo  staff   204B Oct 26 12:04 \u001b[1;34m566\r\n\u001b[35m➜ \u001b[22;39m                                               \u001b[32m│\u001b[1;34m710ea-e437-4fc6-8f7a-f7fac48e78b7\u001b[22;39m                 \r\n                                                 \u001b[32m│\u001b[39mdrwxr-xr-x  6 jeefo  staff   204B Oct 27 06:59 \u001b[1;34m99f\r\n\u001b[22;39m                                                 \u001b[32m│\u001b[1;34m8d7db-4007-4fb0-9266-29c75d16f7f3\u001b[22;39m                 \r\n                                                 \u001b[32m│ツ \u001b[39min \u001b[34m~/projects/my_own_secret_project/public/sess\r\n\u001b[39m                                                 \u001b[32m│\u001b[34mions\u001b[32m git (master) ☁\u001b[39m                               \r\n                                                 \u001b[32m│\u001b[1;35m➜ \u001b[22;39mtotal_size 187e4434-92e1-4308-8473-91c329e0e083/\r\n                                                 \u001b[32m│\u001b[39m124M    187e4434-92e1-4308-8473-91c329e0e083/     \r\n                                                 \u001b[32m│ツ \u001b[39min \u001b[34m~/projects/my_own_secret_project/public/sess\r\n\u001b[39m                                                 \u001b[32m│\u001b[34mions\u001b[32m git (master) ☁\u001b[39m                               \r\n                                                 \u001b[32m│\u001b[1;35m➜ \u001b[22;39m                                                \r\n\u001b[32m─────────────────────────────────────────────────┼──────────────────────────────────────────────────\r\nr) ☁\u001b[39m                                             \u001b[32m│\u001b[39m ms                                               \r\n\u001b[1;35m➜ \u001b[22;39m                                               \u001b[32m│\u001b[39m::ffff:192.168.1.2 - POST /api/v1/checkpoint/bfd30\r\n                                                 \u001b[32m│\u001b[39m494-8539-48ad-9fc6-306dc18bba6b HTTP/1.1 200 2 - 1\r\n                                                 \u001b[32m│\u001b[39m.174 ms                                           \r\n                                                 \u001b[32m│\u001b[39mdirname: /Users/jeefo/projects/my_own_secret_proje\r\n                                                 \u001b[32m│\u001b[39mct/public/sessions/bfd30494-8539-48ad-9fc6-306dc18\r\n                                                 \u001b[32m│\u001b[39mbba6b/streams/stream_1                            \r\n                                                 \u001b[32m│\u001b[39m::ffff:192.168.1.2 - POST /api/v1/stream/data/bfd3\r\n                                                 \u001b[32m│\u001b[39m0494-8539-48ad-9fc6-306dc18bba6b/1/2 HTTP/1.1 200 \r\n                                                 \u001b[32m│\u001b[39m2 - 19.819 ms                                     \r\n                                                 \u001b[32m│\u001b[39m                                                  \r\n\u001b[38;5;160;48;5;16mjeefo\u001b[37m on \u001b[32mjeefo-macbook.pro \u001b[37m| \u001b[38;5;127mtmux current session name \u001b[38;5;202m[0]\u001b[37m                              \u001b[1;38;5;26m1:sessions*\u001b[22;37m "
+                        },
+                        "normal": {
+                            "buffer": "\u001b[32mツ \u001b[39min \u001b[34m~/projects/my_own_secret_project\u001b[32m git (master) ☁\u001b[39m                                               \r\n\u001b[1;35m➜ \u001b[22;39mtmux_local a -t 0                                                                                 \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    \r\n                                                                                                    ",
+                            "saved_cursor": {
+                                "pos": {
+                                    "x": 0,
+                                    "y": 2
+                                },
+                                "attr": {
+                                    "fg": 0,
+                                    "bg": 0
+                                }
+                            }
+                        },
+                        "active_buffer": "alt"
+                    }
+                },
+                "options": {
+                    "rows": 24,
+                    "cols": 100,
+                    "termName": "xterm-256color",
+                    "fontSize": 16,
+                    "fontFamily": "MonacoB, Inconsolata",
+                    "fontWeight": "bold",
+                    "cursorStyle": "block",
+                    "drawBoldTextInBrightColors": true,
+                    "tabStopWidth": 4,
+                    "screenKeys": true,
+                    "macOptionIsMeta": true,
+                    "macOptionClickForcesSelection": true
+                }
+            }
+        }
+    ],
+    "timestamp_offset": 9.01614000000013
+}

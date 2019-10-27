@@ -1,0 +1,6 @@
+{
+    "id": 210,
+    "events": "[{\"type\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"Tg==\",\"delta_time\":629.67441},{\"type\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"bw==\",\"delta_time\":630.88502}]",
+    "timestamp_offset": 628.3271149999999,
+    "duration": 3.006434999999823
+}

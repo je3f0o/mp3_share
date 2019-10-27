@@ -1,0 +1,6 @@
+{
+    "id": 129,
+    "events": "[{\"type\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"CBtbSw==\",\"delta_time\":384.99803999999983},{\"type\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"CBtbSw==\",\"delta_time\":385.124655},{\"type\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"0LY=\",\"delta_time\":385.2212899999998},{\"type\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"0LU=\",\"delta_time\":386.2318099999998},{\"type\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"0Lo=\",\"delta_time\":386.8050800000001},{\"type\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"0YI=\",\"delta_time\":387.22706999999986},{\"type\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"IA==\",\"delta_time\":387.5386949999996},{\"type\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"0L0=\",\"delta_time\":387.7327999999998}]",
+    "timestamp_offset": 384.8308849999998,
+    "duration": 3.0058899999998974
+}

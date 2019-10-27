@@ -1,0 +1,6 @@
+{
+    "id": 1,
+    "events": "[{\"type\":\"start_stream_record\",\"target\":\"Com channel\",\"data\":{\"target\":\"Com channel\",\"session_id\":\"bfd30494-8539-48ad-9fc6-306dc18bba6b\",\"stream_id\":1,\"mime\":\"audio/webm; codecs=opus\"},\"delta_time\":0.011149999999674037}]",
+    "timestamp_offset": 0,
+    "duration": 3.00072499999986
+}

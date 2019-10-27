@@ -1,0 +1,6 @@
+{
+    "id": 20,
+    "events": "[{\"type\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"dw==\",\"delta_time\":58.16816500000004},{\"type\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"ZQ==\",\"delta_time\":58.25601000000001},{\"type\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"YQ==\",\"delta_time\":59.27228499999992},{\"type\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"aw==\",\"delta_time\":59.431869999999876},{\"type\":\"stdin\",\"target\":\"Main player:tab[1]\",\"data\":\"dmltIA==\",\"delta_time\":59.55755000000005}]",
+    "timestamp_offset": 57.12721499999985,
+    "duration": 3.007105000000214
+}
